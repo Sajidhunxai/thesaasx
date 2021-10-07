@@ -1,0 +1,44 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "paddingTop": "pt-7",
+      "paddingBottom": "pb-7",
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "type": "submit",
+      "text": "Get Started",
+      "color": "primary",
+      "size": "lg",
+      "class": "mb-2"
+    }
+  },
+
+  "form": {
+    "type": "Form",
+    "default": {
+      "class": "form-inline justify-content-center"
+    }
+  },
+
+  "input": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Email address",
+      "name": "email",
+      "type": "email",
+      "class": "w-250 mb-2 mr-sm-2"
+    }
+  },
+
+  "txtTitle": "Try it for free",
+  "txtText": "Already using TheSaaS? <a href=\"#\">Sign in</a>"
+
+}

@@ -1,0 +1,91 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "Offices",
+        "title": "Our Locations",
+        "text": "It's really easy to create a landing page for your awesome product."
+      }
+    }
+  },
+
+  "items": [
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "text-white text-center bg-img py-8",
+          "background": {
+            "type": "image",
+            "image": "(img) thumb/12.jpg"
+          },
+          "overlay": {
+            "opacity": 50,
+            "color": "#0c4b63"
+          }
+        }
+      },
+      "title": "New York"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "text-white text-center bg-img py-8",
+          "background": {
+            "type": "image",
+            "image": "(img) thumb/13.jpg"
+          },
+          "overlay": {
+            "opacity": 50,
+            "color": "#4a080d"
+          }
+        }
+      },
+      "title": "Toronto"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "text-white text-center bg-img py-8",
+          "background": {
+            "type": "image",
+            "image": "(img) thumb/14.jpg"
+          },
+          "overlay": {
+            "opacity": 50,
+            "color": "#544603"
+          }
+        }
+      },
+      "title": "London"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "text-white text-center bg-img py-8",
+          "background": {
+            "type": "image",
+            "image": "(img) thumb/15.jpg"
+          },
+          "overlay": {
+            "opacity": 50,
+            "color": "#400354"
+          }
+        }
+      },
+      "title": "Tokyo"
+    }
+
+  ]
+}

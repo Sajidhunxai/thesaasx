@@ -1,0 +1,44 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "textWhite": true,
+      "container": "wide",
+      "paddingTop": "pt-0",
+      "paddingBottom": "pb-0",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "color": "#191919"
+      }
+    }
+  },
+
+  "map": {
+    "type": "GoogleMap",
+    "default": {
+      "theme": "dark",
+      "class": "h-100"
+    }
+  },
+
+  "social": {
+    "type": "SocialIcons",
+    "default": {
+      "icons": {
+        "facebook": "#facebook",
+        "twitter": "#twitter",
+        "instagram": "#instagram",
+        "dribbble": "#dribbble"
+      },
+      "class": "social-sm social-inverse"
+    }
+  },
+
+  "imgBgPlay": "(img) bg/11.jpg",
+  "txtSmall": "Head Office",
+  "txtTitle": "Seattle, WA",
+  "txtText": "2651 Main Street, Suit 124<br>Seattle, WA, 98101<br><br>Phone: +1 987 123 6548<br>Email: hello@thetheme.io",
+  "txtTitleFollow": "Follow Us"
+}

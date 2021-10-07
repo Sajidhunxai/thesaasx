@@ -1,0 +1,21 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "container": "wide",
+      "paddingTop": "pt-0",
+      "paddingBottom": "pb-0",
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "map": {
+    "type": "GoogleMap",
+    "default": {
+      "theme": ""
+    }
+  }
+
+}

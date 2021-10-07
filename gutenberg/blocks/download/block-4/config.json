@@ -1,0 +1,45 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "overflowHidden": true,
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "imgApp": {
+    "type": "Image",
+    "default": {
+      "src": "(img) vector/18.png",
+      "data": {
+        "aos": "slide-up"
+      }
+    }
+  },
+
+  "imgApple": {
+    "type": "Image",
+    "default": {
+      "src": "(img) app/badge-apple.png",
+      "alt": "Download on Apple Store",
+      "url": "#",
+      "targetBlank": true
+    }
+  },
+
+  "imgGoogle": {
+    "type": "Image",
+    "default": {
+      "src": "(img) app/badge-google.png",
+      "alt": "Download on Google Play",
+      "url": "#",
+      "targetBlank": true
+    }
+  },
+
+  "txtTitle": "Introducing an app for thesaas",
+  "txtText": "Now for manners use has company believe parlors. Least nor party who wrote while did. Excuse formed as is agreed admire so on result parish. Put use set uncommonly announcing and travelling. Allowance sweetness direction to as necessary. Principle oh explained excellent."
+
+}

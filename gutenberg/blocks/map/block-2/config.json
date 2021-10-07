@@ -1,0 +1,19 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "map": {
+    "type": "GoogleMap",
+    "default": {
+      "theme": "",
+      "class": "rounded-lg"
+    }
+  }
+
+}

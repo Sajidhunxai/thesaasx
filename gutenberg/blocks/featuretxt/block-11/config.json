@@ -1,0 +1,64 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "features": [
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-envelope",
+          "color": "#868e96",
+          "class": "lead-7"
+        }
+      },
+      "title": "Subscription Ready",
+      "text": "MailChimp integration included"
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-layers",
+          "color": "#868e96",
+          "class": "lead-7"
+        }
+      },
+      "title": "Block Variety",
+      "text": "Develop pages like lego"
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-paintbrush",
+          "color": "#868e96",
+          "class": "lead-7"
+        }
+      },
+      "title": "Color Pallet",
+      "text": "Dozen of colors for elements"
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-puzzle",
+          "color": "#868e96",
+          "class": "lead-7"
+        }
+      },
+      "title": "Page Builder",
+      "text": "Drag and drop page design"
+    }
+  ]
+}

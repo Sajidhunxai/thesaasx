@@ -1,0 +1,15 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "Portfolio",
+        "title": "Product Designs",
+        "text": "You can find several product design by our professional team in this section."
+      }
+    }
+  },
+
+  "postsNum": 8,
+  "serverSideRender": false
+}

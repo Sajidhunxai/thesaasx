@@ -1,0 +1,46 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "title": "Partners",
+        "text": "Join thousands of satisfied customers using our template globally."
+      }
+    }
+  },
+
+  "brands": [
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) partner/1.png"
+        }
+      }
+    },
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) partner/2.png"
+        }
+      }
+    },
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) partner/3.png"
+        }
+      }
+    },
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) partner/4.png"
+        }
+      }
+    }
+  ]
+}

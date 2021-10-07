@@ -1,0 +1,35 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "textWhite": true,
+      "paddingTop": "pt-9",
+      "paddingBottom": "pb-9",
+      "class": "text-center",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) bg/1.jpg"
+      },
+      "overlay": {
+        "opacity": 60
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "text": "Login with Evato",
+      "color": "success",
+      "size": "xl",
+      "round": true,
+      "minWidth": 300
+    }
+  },
+
+  "txtText": "Start the supporting system that you always dreamed about"
+
+}

@@ -1,0 +1,23 @@
+{
+  "footer": {
+    "type": "Footer"
+  },
+
+  "links": [
+    {
+      "text": "About"
+    },
+    {
+      "text": "Blog"
+    },
+    {
+      "text": "Policy"
+    },
+    {
+      "text": "Contact"
+    }
+  ],
+
+  "txtText": "We’re a team of experienced designers and developers. We can combine beautiful, modern designs with clean, functional and high-performance code to produce stunning websites."
+
+}

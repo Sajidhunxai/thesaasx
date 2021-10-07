@@ -1,0 +1,20 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "textWhite": true,
+      "class": "text-center",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) bg/1.jpg"
+      },
+      "overlay": {
+        "opacity": 60
+      }
+    }
+  }
+}

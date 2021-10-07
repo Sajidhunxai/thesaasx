@@ -1,0 +1,68 @@
+{
+  "footer": {
+    "type": "Footer",
+    "default": {
+      "paddingTop": "pt-7",
+      "paddingBottom": "pb-7"
+    }
+  },
+
+  "imgLogo": {
+    "type": "Image",
+    "default": {
+      "src": "(img) logo-dark.png"
+    }
+  },
+
+  "links1": [
+    {
+      "text": "About"
+    },
+    {
+      "text": "Careers"
+    },
+    {
+      "text": "Contact"
+    }
+  ],
+
+  "links2": [
+    {
+      "text": "Features"
+    },
+    {
+      "text": "Pricing"
+    },
+    {
+      "text": "Security"
+    }
+  ],
+
+  "links3": [
+    {
+      "text": "Help Center"
+    },
+    {
+      "text": "API"
+    },
+    {
+      "text": "FAQ"
+    }
+  ],
+
+  "social": {
+    "type": "SocialIcons",
+    "default": {
+      "icons": {
+        "facebook": "#facebook",
+        "twitter": "#twitter",
+        "youtube": "#youtube",
+        "instagram": "#instagram"
+      },
+      "class": "social-sm social-bg-brand social-cycling mt-6"
+    }
+  },
+
+  "txtText": "We’re a team of experienced designers and developers. We can combine beautiful, modern designs with clean, functional and high-performance code to produce stunning websites."
+
+}

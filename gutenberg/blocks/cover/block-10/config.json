@@ -1,0 +1,34 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "textWhite": true,
+      "fullscreen": true,
+      "paddingBottom": "pb-8",
+      "class": "text-center",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "gradient",
+        "gradient": "linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%)"
+      }
+    }
+  },
+
+  "btnPrimary": {
+    "type": "Button",
+    "default": {
+      "text": "See Demos",
+      "color": "light",
+      "size": "xl",
+      "round": true,
+      "class": "px-7"
+    }
+  },
+
+  "txtTitle": "TheSaaS",
+  "txtText": "Is an elegant, modern and fully customizable SaaS and WebApp template."
+
+}

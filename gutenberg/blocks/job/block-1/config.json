@@ -1,0 +1,14 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "Jobs",
+        "title": "Open Positions",
+        "text": "Following list displays our current required positions. This list will update regularly."
+      }
+    }
+  },
+
+  "serverSideRender": false
+}

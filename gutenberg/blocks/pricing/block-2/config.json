@@ -1,0 +1,155 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "textWhite": true,
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "color": "#7a54d8"
+      }
+    }
+  },
+
+
+  "cycle": {
+    "visible": false,
+    "color": "secondary"
+  },
+
+  "txtMonthly": "Monthly",
+  "txtYearly": "Yearly",
+
+
+  "items_mo": [],
+  "items_yr": [],
+
+
+  "btn1": {
+    "type": "Button",
+    "default": {
+      "text": "Select an album",
+      "color": "light",
+      "outline": true,
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "btn2": {
+    "type": "Button",
+    "default": {
+      "text": "Sign up",
+      "color": "light",
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "btn3": {
+    "type": "Button",
+    "default": {
+      "text": "Sign up",
+      "color": "light",
+      "outline": true,
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "pricing1": {
+    "id": 1,
+    "name": "Single template",
+    "price": "29",
+    "unit": "$",
+    "period": "",
+    "text": "Single template, lifetime license"
+  },
+
+  "pricing2": {
+    "id": 2,
+    "name": "One year membership",
+    "price": "99",
+    "unit": "$",
+    "period": "",
+    "text": "Get access to all templates"
+  },
+
+  "pricing3": {
+    "id": 3,
+    "name": "Lifetime access",
+    "price": "199",
+    "unit": "$",
+    "period": "",
+    "text": "Pay once, have fun forever"
+  },
+
+
+
+
+  "yr_btn1": {
+    "type": "Button",
+    "default": {
+      "text": "Select an album",
+      "color": "light",
+      "outline": true,
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "yr_btn2": {
+    "type": "Button",
+    "default": {
+      "text": "Sign up",
+      "color": "light",
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "yr_btn3": {
+    "type": "Button",
+    "default": {
+      "text": "Sign up",
+      "color": "light",
+      "outline": true,
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "yr_pricing1": {
+    "id": 1,
+    "name": "Single template",
+    "price": "29",
+    "unit": "$",
+    "period": "",
+    "text": "Single template, lifetime license"
+  },
+
+  "yr_pricing2": {
+    "id": 2,
+    "name": "One year membership",
+    "price": "99",
+    "unit": "$",
+    "period": "",
+    "text": "Get access to all templates"
+  },
+
+  "yr_pricing3": {
+    "id": 3,
+    "name": "Lifetime access",
+    "price": "199",
+    "unit": "$",
+    "period": "",
+    "text": "Pay once, have fun forever"
+  },
+
+
+
+
+  "txtTitle": "Choose your pricing plan"
+
+}

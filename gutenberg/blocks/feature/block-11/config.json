@@ -1,0 +1,54 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "paddingBottom": "pb-0",
+      "header": {
+        "small": "Feature",
+        "title": "More to Discover",
+        "text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy."
+      }
+    }
+  },
+
+  "features": [
+    {
+      "switch": false,
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) preview/header-image.jpg",
+          "class": "rounded shadow-2"
+        }
+      },
+      "title": "5 Ready Samples",
+      "text": "Think the or organization same proposal to affected heard reclined in be it reassuring are attained opinion, by he neighbours even again. Is and by value and that like can could from world takes of great copy and delicacy compared he such that the in and with himself a the man, client totally least for him and have insidious than of him remedies. That his counter-productive clearly, wasn't day we hills parts he on every."
+    },
+
+    {
+      "switch": true,
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) preview/header-video.jpg",
+          "class": "rounded shadow-2"
+        }
+      },
+      "title": "6 Header Types",
+      "text": "Think the or organization same proposal to affected heard reclined in be it reassuring are attained opinion, by he neighbours even again. Is and by value and that like can could from world takes of great copy and delicacy compared he such that the in and with himself a the man, client totally least for him and have insidious than of him remedies. That his counter-productive clearly, wasn't day we hills parts he on every."
+    },
+
+    {
+      "switch": false,
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) preview/header-slider.jpg",
+          "class": "rounded shadow-2"
+        }
+      },
+      "title": "12 Common Pages",
+      "text": "Think the or organization same proposal to affected heard reclined in be it reassuring are attained opinion, by he neighbours even again. Is and by value and that like can could from world takes of great copy and delicacy compared he such that the in and with himself a the man, client totally least for him and have insidious than of him remedies. That his counter-productive clearly, wasn't day we hills parts he on every."
+    }
+  ]
+}

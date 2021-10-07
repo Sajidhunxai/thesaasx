@@ -1,0 +1,34 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "Services",
+        "title": "Our Services",
+        "text": "Join thousands of satisfied customers using our template globally."
+      }
+    }
+  },
+
+  "services": [
+    {
+      "title": "Website Design",
+      "text": "Written enquire painful to offices forming it. Then so does over sent dull. Likewise offended humour mrs fat trifling answered. On ye position greatest so desirous enable performance based."
+    },
+
+    {
+      "title": "Application Development",
+      "text": "Written enquire painful to offices forming it. Then so does over sent dull. Likewise offended humour mrs fat trifling answered. On ye position greatest so desirous enable performance based."
+    },
+
+    {
+      "title": "Branding Package",
+      "text": "Written enquire painful to offices forming it. Then so does over sent dull. Likewise offended humour mrs fat trifling answered. On ye position greatest so desirous enable performance based."
+    },
+
+    {
+      "title": "Advertisement",
+      "text": "Written enquire painful to offices forming it. Then so does over sent dull. Likewise offended humour mrs fat trifling answered. On ye position greatest so desirous enable performance based."
+    }
+  ]
+}

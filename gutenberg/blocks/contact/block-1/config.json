@@ -1,0 +1,60 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "type": "submit",
+      "text": "Submit Inquiry",
+      "color": "primary",
+      "size": "lg"
+    }
+  },
+
+  "mailer": {
+    "type": "Mailer",
+    "default": {
+      "class": "col-11 col-lg-6 mx-auto p-6 bg-gray rounded"
+    }
+  },
+
+  "inputName": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Name",
+      "name": "name",
+      "type": "text",
+      "size": "lg"
+    }
+  },
+
+  "inputEmail": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Email",
+      "name": "email",
+      "type": "email",
+      "size": "lg"
+    }
+  },
+
+  "inputMessage": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Your Message",
+      "name": "message",
+      "type": "textarea",
+      "size": "lg"
+    }
+  },
+
+  "txtTitle": "Let's Get In Touch"
+
+}

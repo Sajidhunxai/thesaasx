@@ -1,0 +1,34 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "class": "bg-repeat",
+      "header": {
+        "small": "Meet TheSaaS-X",
+        "title": "30 Days Free Trial",
+        "text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy."
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) bg/pattern-1.png"
+      },
+      "overlay": {
+        "opacity": 50,
+        "color": "#fff"
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "text": "Try it now",
+      "color": "success",
+      "size": "lg",
+      "minWidth": 250
+    }
+  },
+
+  "txtText": "You'll login using your Envato account."
+
+}

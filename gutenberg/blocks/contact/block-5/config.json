@@ -1,0 +1,73 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) bg/10.jpg"
+      },
+      "overlay": {
+        "opacity": 80
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "type": "submit",
+      "text": "Submit Inquiry",
+      "color": "primary",
+      "size": "lg",
+      "block": true
+    }
+  },
+
+  "mailer": {
+    "type": "Mailer",
+    "default": {
+      "class": "input-border"
+    }
+  },
+
+  "inputName": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Your Name",
+      "name": "name",
+      "type": "text",
+      "size": "lg"
+    }
+  },
+
+  "inputEmail": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Your Email Address",
+      "name": "email",
+      "type": "email",
+      "size": "lg"
+    }
+  },
+
+  "inputMessage": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Your Message",
+      "name": "message",
+      "type": "textarea",
+      "size": "lg"
+    }
+  },
+
+  "txtTitleAddress": "Address",
+  "txtAddress": "1134 Main Street<br>Suit 124<br>Seattle, WA, 98101",
+  "txtTitlePhone": "Phone",
+  "txtPhone": "+1 987 123 6548",
+  "txtTitleEmail": "Email",
+  "txtEmail": "hello@thetheme.io"
+
+}

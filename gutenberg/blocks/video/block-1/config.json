@@ -1,0 +1,41 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "textWhite": true,
+      "container": "wide",
+      "paddingTop": "pt-0",
+      "paddingBottom": "pb-0",
+
+      "header": {
+        "visible": false
+      },
+
+      "background": {
+        "color": "#4f8cf2"
+      }
+    }
+  },
+
+  "btnPlay": {
+    "type": "Button",
+    "default": {
+      "text": "",
+      "url": "https://www.youtube.com/watch?v=M5S_JBRjd1s",
+      "color": "danger",
+      "size": "xl",
+      "circle": true,
+      "icon": {
+        "content": "fa fa-play"
+      },
+      "data": {
+        "provide": "lightbox"
+      }
+    }
+  },
+
+  "imgBgPlay": "(img) thumb/10.jpg",
+  "txtTitle": "Give a Fresh Design to Your SaaS",
+  "txtText": "Fresh fellow even the whole is work outcome them. They original on mountains, drew the support time. The of to graduate. Into to is the to she at return understand every in there transmitting you've he the was and in finger."
+
+}

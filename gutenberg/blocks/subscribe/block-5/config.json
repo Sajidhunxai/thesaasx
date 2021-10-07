@@ -1,0 +1,52 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "paddingTop": "pt-10",
+      "paddingBottom": "pb-10",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) bg/1.jpg"
+      },
+      "overlay": {
+        "opacity": 30
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "type": "submit",
+      "text": "Sign up",
+      "color": "light",
+      "glass": true
+    }
+  },
+
+  "form": {
+    "type": "Form",
+    "default": {
+      "action": "https://thetheme.us14.list-manage.com/subscribe/post?u=c44b4a5628466e2a0a33ee835&amp;id=a07d860f34",
+      "method": "POST",
+      "targetBlank": true,
+      "class": "input-glass input-round"
+    }
+  },
+
+  "inputEmail": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Enter Email Address",
+      "name": "EMAIL",
+      "type": "email"
+    }
+  },
+
+  "txtTitle": "Latest news direct to your inbox",
+  "txtText": "Subscribe Now"
+
+}

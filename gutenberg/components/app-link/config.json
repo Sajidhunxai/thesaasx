@@ -1,0 +1,14 @@
+{
+  "apple": {
+    "url": "#",
+    "targetBlank": true,
+    "img": "(img) app/badge-apple.png",
+    "alt": "Download on Apple Store"
+  },
+  "google": {
+    "url": "#",
+    "targetBlank": true,
+    "img": "(img) app/badge-google.png",
+    "alt": "Download on Google Play"
+  }
+}

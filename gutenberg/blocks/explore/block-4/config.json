@@ -1,0 +1,129 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "Products",
+        "title": "Working together is better",
+        "text": "Our products allow businesses to be more reliable, flexible, and scalable. They help improve communication and make sense of massive amounts of data."
+      }
+    }
+  },
+
+  "items": [
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "card card-body border hover-shadow-6 text-center py-6"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-lightbulb",
+          "class": "lead-7",
+          "color": "#78a300"
+        }
+      },
+      "title": "Support"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "card card-body border hover-shadow-6 text-center py-6"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-book-open",
+          "class": "lead-7",
+          "color": "#eb4a62"
+        }
+      },
+      "title": "Guide"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "card card-body border hover-shadow-6 text-center py-6"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-chat",
+          "class": "lead-7",
+          "color": "#f69a3e"
+        }
+      },
+      "title": "Chat"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "card card-body border hover-shadow-6 text-center py-6"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-mic",
+          "class": "lead-7",
+          "color": "#f0c93e"
+        }
+      },
+      "title": "Talk"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "card card-body border hover-shadow-6 text-center py-6"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-envelope",
+          "class": "lead-7",
+          "color": "#37b8af"
+        }
+      },
+      "title": "Message"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "card card-body border hover-shadow-6 text-center py-6"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-piechart",
+          "class": "lead-7",
+          "color": "#2faabc"
+        }
+      },
+      "title": "Explore"
+    }
+
+  ]
+}

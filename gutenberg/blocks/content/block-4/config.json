@@ -1,0 +1,14 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "txtTitle": "About us",
+  "txtText": "Our company was founded in 2013 with a mission to create pretty templates for great startups. We can combine beautiful, modern designs with clean, functional and high-performance code to produce stunning websites. And best of all, we are super passionate about our work. Thought does cognitive into follow and rationale annoyed."
+
+}

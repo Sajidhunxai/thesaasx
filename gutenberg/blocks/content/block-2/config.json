@@ -1,0 +1,26 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "textWhite": true,
+      "container": "wide",
+      "paddingTop": "pt-0",
+      "paddingBottom": "pb-0",
+
+      "header": {
+        "visible": false
+      },
+
+      "background": {
+        "color": "#33323a"
+      }
+    }
+  },
+
+  "imgBgFounder": "(img) thumb/9.jpg",
+
+  "txtTitle": "From The Founder",
+  "txtLead": "Instrument cultivated alteration any favourable expression law far nor. Both new like tore but year. An from mean on with when sing pain.",
+  "txtText": "<p>Passage its ten led hearted removal cordial. Preference any astonished unreserved mrs. Prosperous understood middletons in conviction an uncommonly do. Supposing so be resolving breakfast am or perfectly. Is drew am hill from mr. Picture for attempt joy excited ten carried manners talking how. Suspicion neglected he resolving agreement perceived at an.</p><p>Written enquire painful ye to offices forming it. Then so does over sent dull on. Likewise offended humoured mrs fat trifling answered. On ye position greatest so desirous. So wound stood guest weeks no terms up ought. By so these am so rapid blush songs begin.</p>"
+
+}

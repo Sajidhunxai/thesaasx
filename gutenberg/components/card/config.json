@@ -1,0 +1,20 @@
+{
+  "url": "",
+  "targetBlank": false,
+  "textWhite": false,
+  "class": "",
+  "background": {
+    "type": "color",
+    "color": "",
+    "gradient": "",
+    "image": "",
+    "imageStyle": ""
+  },
+
+  "overlay": {
+    "opacity": 0,
+    "type": "color",
+    "color": "#000",
+    "gradient": ""
+  }
+}

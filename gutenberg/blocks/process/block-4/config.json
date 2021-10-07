@@ -1,0 +1,97 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "title": "The Work Process",
+        "text": "We are so proud of our product. It's really easy to create a landing page for your product."
+      }
+    }
+  },
+
+  "steps": [
+    {
+      "iconbox": {
+        "type": "Iconbox",
+        "default": {
+          "content": "fa fa-file-text-o",
+          "size": "lg",
+          "color": "#50a1ff",
+          "backgroundColor": "#eef4fc"
+        }
+      },
+      "title": "Step One",
+      "text": "Your web pages looks good on all devices and screen sizes, including desktop, tablet and mobile."
+    },
+
+    {
+      "iconbox": {
+        "type": "Iconbox",
+        "default": {
+          "content": "fa fa-bullhorn",
+          "size": "lg",
+          "color": "#ff4954",
+          "backgroundColor": "#fceeef"
+        }
+      },
+      "title": "Step Two",
+      "text": "Your web pages looks good on all devices and screen sizes, including desktop, tablet and mobile."
+    },
+
+    {
+      "iconbox": {
+        "type": "Iconbox",
+        "default": {
+          "content": "fa fa-code",
+          "size": "lg",
+          "color": "#926dde",
+          "backgroundColor": "#f2eefc"
+        }
+      },
+      "title": "Step Three",
+      "text": "Your web pages looks good on all devices and screen sizes, including desktop, tablet and mobile."
+    },
+
+    {
+      "iconbox": {
+        "type": "Iconbox",
+        "default": {
+          "content": "fa fa-comments",
+          "size": "lg",
+          "color": "#ffba00",
+          "backgroundColor": "#fcf8ee"
+        }
+      },
+      "title": "Step Four",
+      "text": "Your web pages looks good on all devices and screen sizes, including desktop, tablet and mobile."
+    },
+
+    {
+      "iconbox": {
+        "type": "Iconbox",
+        "default": {
+          "content": "fa fa-gears",
+          "size": "lg",
+          "color": "#868e96",
+          "backgroundColor": "#f0f4f7"
+        }
+      },
+      "title": "Step Five",
+      "text": "Your web pages looks good on all devices and screen sizes, including desktop, tablet and mobile."
+    },
+
+    {
+      "iconbox": {
+        "type": "Iconbox",
+        "default": {
+          "content": "fa fa-handshake-o",
+          "size": "lg",
+          "color": "#3cd458",
+          "backgroundColor": "#eefcf0"
+        }
+      },
+      "title": "Step Six",
+      "text": "Your web pages looks good on all devices and screen sizes, including desktop, tablet and mobile."
+    }
+  ]
+}

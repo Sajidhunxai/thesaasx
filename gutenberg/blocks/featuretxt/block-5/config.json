@@ -1,0 +1,39 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "container": "wide",
+      "paddingTop": "pt-0",
+      "paddingBottom": "pb-0",
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "iconboxL": {
+    "type": "Iconbox",
+    "default": {
+      "content": "icon-profile-male",
+      "size": "xxl",
+      "backgroundColor": "#fff",
+      "class": "lead-6"
+    }
+  },
+  "titleL": "Present",
+  "textL": "Fresh fellow even the whole is work outcome them. They original on mountains, drew the support time. The of to graduate. Into to is the to she at return understand every in there.",
+  "linkL": "<a href=\"#\">Read More</a>",
+
+  "iconboxR": {
+    "type": "Iconbox",
+    "default": {
+      "content": "icon-linegraph",
+      "size": "xxl",
+      "class": "lead-6"
+    }
+  },
+  "titleR": "Business Grows",
+  "textR": "Fresh fellow even the whole is work outcome them. They original on mountains, drew the support time. The of to graduate. Into to is the to she at return understand every in there.",
+  "linkR": "<a href=\"#\">Read More</a>"
+
+}

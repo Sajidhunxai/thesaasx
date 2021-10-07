@@ -1,0 +1,83 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "People",
+        "title": "The Team",
+        "text": "Meet our small team that make those great products."
+      }
+    }
+  },
+
+  "team": [
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) avatar/1.jpg"
+        }
+      },
+      "social": {
+        "type": "SocialIcons",
+        "default": {
+          "class": "social-brand",
+          "icons": {
+            "facebook": "#facebook",
+            "twitter": "#twitter",
+            "instagram": "#instagram"
+          }
+        }
+      },
+      "name": "Morgan Guadis",
+      "position": "Co-Founder & CEO",
+      "about": "Signs you'll a, life itself to in signs seed under fruitful good open behold Our of stars whales forth."
+    },
+
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) avatar/2.jpg"
+        }
+      },
+      "social": {
+        "type": "SocialIcons",
+        "default": {
+          "class": "social-brand",
+          "icons": {
+            "facebook": "#facebook",
+            "twitter": "#twitter",
+            "instagram": "#instagram"
+          }
+        }
+      },
+      "name": "John Senating",
+      "position": "Co-Founder & CTO",
+      "about": "Signs you'll a, life itself to in signs seed under fruitful good open behold Our of stars whales forth."
+    },
+
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) avatar/3.jpg"
+        }
+      },
+      "social": {
+        "type": "SocialIcons",
+        "default": {
+          "class": "social-brand",
+          "icons": {
+            "facebook": "#facebook",
+            "twitter": "#twitter",
+            "instagram": "#instagram"
+          }
+        }
+      },
+      "name": "Sandi Hormez",
+      "position": "Lead Developer",
+      "about": "Signs you'll a, life itself to in signs seed under fruitful good open behold Our of stars whales forth."
+    }
+  ]
+}

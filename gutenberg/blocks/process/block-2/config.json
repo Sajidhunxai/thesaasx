@@ -1,0 +1,61 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "title": "Our History",
+        "text": "TheThemeio founded to help startups, and it still shapes the way we work today."
+      }
+    }
+  },
+
+  "steps": [
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) thumb/16.jpg"
+        }
+      },
+      "title": "Launched our website",
+      "date": "08 Feb 2017",
+      "text": "Think the or organization same proposal to affected heard reclined in be it reassuring are attained opinion, by he neighbours even again. Is and by value and that like can from world."
+    },
+
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) thumb/6.jpg"
+        }
+      },
+      "title": "Got the first 100 users",
+      "date": "17 Aug 2017",
+      "text": "Think the or organization same proposal to affected heard reclined in be it reassuring are attained opinion, by he neighbours even again. Is and by value and that like can from world."
+    },
+
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) thumb/4.jpg"
+        }
+      },
+      "title": "Raised $1.4 million in seed funding",
+      "date": "26 Mar 2018",
+      "text": "Think the or organization same proposal to affected heard reclined in be it reassuring are attained opinion, by he neighbours even again. Is and by value and that like can from world."
+    },
+
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) thumb/13.jpg"
+        }
+      },
+      "title": "Team size increased to 20",
+      "date": "14 Apr 2018",
+      "text": "Think the or organization same proposal to affected heard reclined in be it reassuring are attained opinion, by he neighbours even again. Is and by value and that like can from world."
+    }
+  ]
+}

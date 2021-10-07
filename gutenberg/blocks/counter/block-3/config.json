@@ -1,0 +1,93 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "numbers": [
+    {
+      "countup": {
+        "type": "Countup",
+        "default": {
+          "from": 0,
+          "to": 100,
+          "class": "d-inline-block w-60px"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-document",
+          "class": "mr-3",
+          "color": "#bfc5ca"
+        }
+      },
+      "text": "Unique Page"
+    },
+
+    {
+      "countup": {
+        "type": "Countup",
+        "default": {
+          "from": 0,
+          "to": 250,
+          "class": "d-inline-block w-60px"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-layers",
+          "class": "mr-3",
+          "color": "#bfc5ca"
+        }
+      },
+      "text": "Block Variety"
+    },
+
+    {
+      "countup": {
+        "type": "Countup",
+        "default": {
+          "from": 0,
+          "to": 330,
+          "class": "d-inline-block w-60px"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-tools",
+          "class": "mr-3",
+          "color": "#bfc5ca"
+        }
+      },
+      "text": "Reusable Component"
+    },
+
+    {
+      "countup": {
+        "type": "Countup",
+        "default": {
+          "from": 0,
+          "to": 430,
+          "class": "d-inline-block w-60px"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-genius",
+          "class": "mr-3",
+          "color": "#bfc5ca"
+        }
+      },
+      "text": "Crafted Element"
+    }
+
+  ]
+}

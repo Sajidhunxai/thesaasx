@@ -1,0 +1,32 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "Services",
+        "title": "Our Services",
+        "text": "Join thousands of satisfied customers using our template globally."
+      }
+    }
+  },
+
+  "services": [
+    {
+      "title": "Website Design",
+      "tags": "Responsive, Minimalism",
+      "text": "So delightful up dissimilar by unreserved it connection frequently. Do an high room so in paid. Up on cousin ye dinner should in. Sex stood tried walls manor truth shy and three his. Their to years so child truth. Honoured peculiar families sensible up likewise by on in."
+    },
+
+    {
+      "title": "Web Development",
+      "tags": "PHP, MySQL, Laravel",
+      "text": "So delightful up dissimilar by unreserved it connection frequently. Do an high room so in paid. Up on cousin ye dinner should in. Sex stood tried walls manor truth shy and three his. Their to years so child truth. Honoured peculiar families sensible up likewise by on in."
+    },
+
+    {
+      "title": "Mobile App",
+      "tags": "Andriod, iOS",
+      "text": "So delightful up dissimilar by unreserved it connection frequently. Do an high room so in paid. Up on cousin ye dinner should in. Sex stood tried walls manor truth shy and three his. Their to years so child truth. Honoured peculiar families sensible up likewise by on in."
+    }
+  ]
+}

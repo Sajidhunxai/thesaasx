@@ -1,0 +1,49 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "fullscreen": true,
+      "textWhite": true,
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "color": "#816af8"
+      }
+    }
+  },
+
+  "btnPrimary": {
+    "type": "Button",
+    "default": {
+      "text": "Redesign your website",
+      "color": "light",
+      "size": "xl",
+      "round": true,
+      "class": "px-6 px-lg-7"
+    }
+  },
+
+  "btnPlay": {
+    "type": "Button",
+    "default": {
+      "text": "",
+      "url": "https://www.youtube.com/watch?v=M5S_JBRjd1s",
+      "color": "success",
+      "size": "sm",
+      "circle": true,
+      "icon": {
+        "content": "fa fa-play"
+      },
+      "data": {
+        "provide": "lightbox"
+      }
+    }
+  },
+
+  "txtLength": "2:53 minutes",
+  "txtTitle": "Better Design; More Conversion",
+  "txtText": "TheSaaS is an elegant, modern and fully customizable SaaS and WebApp template"
+
+}

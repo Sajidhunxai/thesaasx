@@ -1,0 +1,33 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "class": "text-center",
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "text": "Start Now",
+      "color": "success",
+      "size": "lg",
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "imgMain": {
+    "type": "Image",
+    "default": {
+      "src": "(img) icon/planet.png"
+    }
+  },
+
+  "txtTitle": "Become an Outstanding Startup",
+  "txtText": "Try it yourself 30 days free. No credit card required! A good news is that you have 15 days money back!"
+
+}

@@ -1,0 +1,128 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "color": "#f9fafa"
+      }
+    }
+  },
+
+
+  "cycle": {
+    "visible": true,
+    "color": "secondary"
+  },
+
+  "txtMonthly": "Monthly",
+  "txtYearly": "Yearly",
+
+
+  "items_mo": [],
+  "items_yr": [],
+
+
+  "btn1": {
+    "type": "Button",
+    "default": {
+      "text": "Sign up",
+      "color": "secondary",
+      "outline": true,
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "btn2": {
+    "type": "Button",
+    "default": {
+      "text": "Sign up",
+      "color": "secondary",
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "pricing1": {
+    "id": 1,
+    "name": "Starter",
+    "price": "$6.",
+    "price99": "99",
+    "period": "Billed Monthly",
+    "text": "Single Website<br>60GB Bandwidth<br>Manual Import<br>Email Support"
+  },
+
+  "pricing2": {
+    "id": 1,
+    "name": "Business",
+    "price": "$69.",
+    "price99": "99",
+    "period": "Billed Monthly",
+    "text": "7 Website<br>Unlimited Bandwidth<br>Auto Import<br>Email Support"
+  },
+
+  "img1": "(img) thumb/3.jpg",
+  "img2": "(img) thumb/11.jpg",
+
+
+  "yr_btn1": {
+    "type": "Button",
+    "default": {
+      "text": "Sign up",
+      "color": "secondary",
+      "outline": true,
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "yr_btn2": {
+    "type": "Button",
+    "default": {
+      "text": "Sign up",
+      "color": "secondary",
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "yr_pricing1": {
+    "id": 1,
+    "name": "Starter",
+    "price": "$69.",
+    "price99": "99",
+    "period": "Billed Yearly",
+    "text": "Single Website<br>60GB Bandwidth<br>Manual Import<br>Email Support"
+  },
+
+  "yr_pricing2": {
+    "id": 1,
+    "name": "Business",
+    "price": "$699.",
+    "price99": "99",
+    "period": "Billed Yearly",
+    "text": "7 Website<br>Unlimited Bandwidth<br>Auto Import<br>Email Support"
+  },
+
+  "yr_img1": "(img) thumb/3.jpg",
+  "yr_img2": "(img) thumb/11.jpg",
+
+
+
+  "link": {
+    "type": "ReadMore",
+    "default": {
+      "text": "View full pricing details",
+      "icon": "ti-arrow-right",
+      "iconClass": "fs-10 ml-2",
+      "class": ""
+    }
+  },
+
+  "txtTitle": "The most fare pricing plans ever.",
+  "txtText": "Our prices are very easy to understand. There's not any extra or hidden fee. You just pay what is listed here."
+
+}

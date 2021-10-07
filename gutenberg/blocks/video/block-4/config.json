@@ -1,0 +1,33 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "overflowHidden": true,
+      "header": {
+        "small": "Video",
+        "title": "Watch It Grow",
+        "text": "Explore the best SaaS template in the market in a short 1-minute video."
+      }
+    }
+  },
+
+  "btnPlay": {
+    "type": "Button",
+    "default": {
+      "text": "",
+      "url": "https://www.youtube.com/watch?v=M5S_JBRjd1s",
+      "color": "primary",
+      "size": "xl",
+      "circle": true,
+      "icon": {
+        "content": "fa fa-play"
+      },
+      "data": {
+        "provide": "lightbox"
+      }
+    }
+  },
+
+  "imgBgPlay": "(img) thumb/3.jpg",
+  "txtText": "We made it so easy to create a SaaS website with few copy and pastes."
+}

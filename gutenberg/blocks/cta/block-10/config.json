@@ -1,0 +1,24 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "class": "text-center",
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "text": "View demos",
+      "color": "primary",
+      "size": "lg",
+      "round": true
+    }
+  },
+
+  "txtTitle": "More Conversion, For Your SaaS"
+
+}

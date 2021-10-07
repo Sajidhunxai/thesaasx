@@ -1,0 +1,64 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "textWhite": true,
+      "overflowHidden": true,
+      "paddingTop": "pt-0",
+      "paddingBottom": "pb-0",
+      "container": "wide",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) bg/2.jpg"
+      },
+      "overlay": {
+        "opacity": 50
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "type": "submit",
+      "text": "Get Started",
+      "color": "success",
+      "size": "lg",
+      "block": true
+    }
+  },
+
+  "form": {
+    "type": "Form",
+    "default": {
+      "class": "row gap-y input-glass"
+    }
+  },
+
+  "inputName": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Name",
+      "name": "name",
+      "type": "text",
+      "size": "lg"
+    }
+  },
+
+  "inputEmail": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Email",
+      "name": "email",
+      "type": "email",
+      "size": "lg"
+    }
+  },
+
+  "txtTitle": "Start Using TheSaaS Now!",
+  "txtText": "State the behavioural and writing name ports, the vanished like divided palace of stairs of its to in scale presented."
+
+}

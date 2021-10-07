@@ -1,0 +1,128 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "Demo",
+        "title": "Sample Landing Pages",
+        "text": "Apart from internal pages, we have designed several single sample pages to get start with."
+      }
+    }
+  },
+
+  "items": [
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "targetBlank": true,
+          "class": "card shadow-1 hover-shadow-7"
+        }
+      },
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) preview/demo-software-1.jpg",
+          "class": "card-img-top"
+        }
+      },
+      "title": "Software"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "targetBlank": true,
+          "class": "card shadow-1 hover-shadow-7"
+        }
+      },
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) preview/demo-marketing-1.jpg",
+          "class": "card-img-top"
+        }
+      },
+      "title": "Marketing"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "targetBlank": true,
+          "class": "card shadow-1 hover-shadow-7"
+        }
+      },
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) preview/demo-saas-1.jpg",
+          "class": "card-img-top"
+        }
+      },
+      "title": "SaaS"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "targetBlank": true,
+          "class": "card shadow-1 hover-shadow-7"
+        }
+      },
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) preview/demo-marketing-2.jpg",
+          "class": "card-img-top"
+        }
+      },
+      "title": "Marketing"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "targetBlank": true,
+          "class": "card shadow-1 hover-shadow-7"
+        }
+      },
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) preview/demo-software-2.jpg",
+          "class": "card-img-top"
+        }
+      },
+      "title": "Software"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "targetBlank": true,
+          "class": "card shadow-1 hover-shadow-7"
+        }
+      },
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) preview/demo-saas-2.jpg",
+          "class": "card-img-top"
+        }
+      },
+      "title": "SaaS"
+    }
+  ]
+}

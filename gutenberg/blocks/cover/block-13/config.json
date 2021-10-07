@@ -1,0 +1,22 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "paddingTop": "pt-10",
+      "paddingBottom": "pb-9",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) bg/4.jpg"
+      }
+    }
+  },
+
+  "txtTitle": "Covers",
+  "txtSmall": "<a href=\"#\">Explore all the available blocks</a>",
+  "txtText": "No page can go online without having an eye catching cover to keep your visitors in the page."
+
+}

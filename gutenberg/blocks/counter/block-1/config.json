@@ -1,0 +1,61 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "textWhite": true,
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "color": "#363636"
+      }
+    }
+  },
+
+  "numbers": [
+    {
+      "countup": {
+        "type": "Countup",
+        "default": {
+          "from": 0,
+          "to": 100
+        }
+      },
+      "text": "Page"
+    },
+
+    {
+      "countup": {
+        "type": "Countup",
+        "default": {
+          "from": 0,
+          "to": 250
+        }
+      },
+      "text": "Block"
+    },
+
+    {
+      "countup": {
+        "type": "Countup",
+        "default": {
+          "from": 0,
+          "to": 330
+        }
+      },
+      "text": "Component"
+    },
+
+    {
+      "countup": {
+        "type": "Countup",
+        "default": {
+          "from": 0,
+          "to": 430
+        }
+      },
+      "text": "Element"
+    }
+
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "switchable": true,
+      "switchSides": false,
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "img": {
+    "type": "Image",
+    "default": {
+      "src": "(img) thumb/9.jpg",
+      "class": "rounded"
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "text": "Read More",
+      "url": "#",
+      "color": "primary",
+      "outline": true,
+      "icon": {
+        "content": "ti-arrow-right",
+        "class": "fs-9 ml-2",
+        "position": "after"
+      }
+    }
+  },
+
+  "txtTitle": "Convert your visitors to real customers",
+  "txtText": "Option as can distributors. And to suppliers, given a copy the horrible arrange yes, we had hundreds leave was more which a I the king's had the so soon throughout in necessary which at way did phase a young written, descriptions, late uninspired, to times owner themselves them. Get sported uninspired, the a box to an to but on been the succeed have couldn't set."
+
+}

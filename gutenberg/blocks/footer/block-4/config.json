@@ -1,0 +1,23 @@
+{
+  "footer": {
+    "type": "Footer",
+    "default": {
+      "class": "text-center"
+    }
+  },
+
+  "social": {
+    "type": "SocialIcons",
+    "default": {
+      "icons": {
+        "facebook": "#facebook",
+        "twitter": "#twitter",
+        "instagram": "#instagram"
+      },
+      "class": "social-sm social-bg-brand social-cycling"
+    }
+  },
+
+  "txtText": "Copyright © 2018 <a href=\"#\">TheThemeio</a>, All rights reserved."
+
+}

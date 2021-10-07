@@ -1,0 +1,55 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "title": "Start a project now",
+        "text": "Hire expert freelancers for any job to be done online or become a freelancer and earn money."
+      }
+    }
+  },
+
+  "items": [
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "card-body shadow-3 hover-shadow-6 text-default"
+        }
+      },
+      "iconbox": {
+        "type": "Iconbox",
+        "default": {
+          "content": "icon-genius",
+          "size": "xxl",
+          "color": "#50a1ff",
+          "backgroundColor": "#eef4fc"
+        }
+      },
+      "title": "I'm a developer",
+      "text": "Your web pages looks good on all devices and screen sizes, including desktop, tablet and mobile."
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "card-body shadow-3 hover-shadow-6 text-default"
+        }
+      },
+      "iconbox": {
+        "type": "Iconbox",
+        "default": {
+          "content": "icon-profile-male",
+          "size": "xxl",
+          "color": "#926dde",
+          "backgroundColor": "#f2eefc"
+        }
+      },
+      "title": "I need a developer",
+      "text": "Your web pages looks good on all devices and screen sizes, including desktop, tablet and mobile."
+    }
+  ]
+}

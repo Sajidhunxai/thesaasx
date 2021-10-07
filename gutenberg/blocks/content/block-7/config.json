@@ -1,0 +1,17 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "txtLead": "Passionate about creating templates for startups",
+  "txtTitle1": "Our Mission",
+  "txtTitle2": "Our Vision",
+  "txtText1": "Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure.",
+  "txtText2": "Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure."
+
+}

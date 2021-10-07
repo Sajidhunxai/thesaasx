@@ -1,0 +1,54 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "title": "You're in good company",
+        "text": "Join thousands of satisfied customers using our template globally."
+      }
+    }
+  },
+
+  "brands": [
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) partner/1.png"
+        }
+      }
+    },
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) partner/2.png"
+        }
+      }
+    },
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) partner/3.png"
+        }
+      }
+    },
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) partner/4.png"
+        }
+      }
+    },
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) partner/5.png"
+        }
+      }
+    }
+  ]
+}

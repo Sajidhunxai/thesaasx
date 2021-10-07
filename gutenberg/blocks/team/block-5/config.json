@@ -1,0 +1,34 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "imgAuthor": {
+    "type": "Image",
+    "default": {
+      "src": "(img) avatar/11.jpg",
+      "class": "rounded-md"
+    }
+  },
+
+  "social": {
+    "type": "SocialIcons",
+    "default": {
+      "icons": {
+        "facebook": "#facebook",
+        "twitter": "#twitter",
+        "instagram": "#instagram",
+        "linkedin": "#linkedin"
+      },
+      "class": "social-inline social-gray"
+    }
+  },
+
+  "txtTitle": "About the author",
+  "txtText": "<p>The standard default text is designed to ramble about nothing. If it is not real text, they will focus on the design. Default text creates the illusion of real text. However, standard default text can do the trick.</p><p>The standard default text is designed to ramble about nothing. If it is not real text, they will focus on the design. Default text creates the illusion of real text. However, standard default text can do the trick.</p>"
+}

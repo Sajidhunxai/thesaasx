@@ -1,0 +1,51 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "paddingTop": "pt-10",
+      "paddingBottom": "pb-10",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) thumb/17.jpg"
+      },
+      "overlay": {
+        "opacity": 60
+      }
+    }
+  },
+
+  "imgLogo": {
+    "type": "Image",
+    "default": {
+      "src": "(img) logo-light.png"
+    }
+  },
+
+  "imgApple": {
+    "type": "Image",
+    "default": {
+      "src": "(img) app/badge-apple.png",
+      "alt": "Download on Apple Store",
+      "url": "#",
+      "targetBlank": true
+    }
+  },
+
+  "imgGoogle": {
+    "type": "Image",
+    "default": {
+      "src": "(img) app/badge-google.png",
+      "alt": "Download on Google Play",
+      "url": "#",
+      "targetBlank": true
+    }
+  },
+
+  "txtTitle": "Download now",
+  "txtText": "Prepared is me marianne pleasure likewise debating. Wonder an unable except better stairs do ye admire.",
+  "txtRate": "Based on 3,000+ reviews"
+
+}

@@ -1,0 +1,33 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "textWhite": true,
+      "paddingTop": "pt-8",
+      "paddingBottom": "pb-8",
+      "header": {
+        "small": "Own It",
+        "title": "Get It Now",
+        "text": "If you have visited the other pages and you have made your decision to purchase this template, go on and press the following button and get a license in less than a minute."
+      },
+      "background": {
+        "type": "gradient",
+        "gradient": "linear-gradient(120deg, #fccb90 0%, #d57eeb 100%)"
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "text": "Purchase for $59",
+      "color": "light",
+      "size": "lg",
+      "round": true,
+      "minWidth": 250
+    }
+  },
+
+  "txtText": "or purchase an Extended License"
+
+}

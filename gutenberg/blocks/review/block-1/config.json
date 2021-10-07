@@ -1,0 +1,49 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "title": "What People Say",
+        "text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy."
+      }
+    }
+  },
+
+  "reviews": [
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) avatar/1.jpg",
+          "class": "avatar avatar-xl"
+        }
+      },
+      "name": "Steve Jobs",
+      "text": "When you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations."
+    },
+
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) avatar/2.jpg",
+          "class": "avatar avatar-xl"
+        }
+      },
+      "name": "John Jones",
+      "text": "Design everything on the assumption that people are not heartless or stupid but marvelously capable, given the chance."
+    },
+
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) avatar/3.jpg",
+          "class": "avatar avatar-xl"
+        }
+      },
+      "name": "Bill Gates",
+      "text": "Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is the most important."
+    }
+  ]
+}

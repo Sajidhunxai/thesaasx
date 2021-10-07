@@ -1,0 +1,69 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "fullscreen": true,
+      "textWhite": true,
+      "class": "text-center text-lg-left",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "gradient",
+        "gradient": "linear-gradient(135deg, #1b6bf9 0%, #764ba2 100%)"
+      }
+    }
+  },
+
+  "btnPrimary": {
+    "type": "Button",
+    "default": {
+      "text": "Explore Demos",
+      "color": "warning",
+      "round": true,
+      "minWidth": 170
+    }
+  },
+
+  "btnSecondary": {
+    "type": "Button",
+    "default": {
+      "text": "Features",
+      "color": "light",
+      "round": true,
+      "outline": true,
+      "minWidth": 170
+
+    }
+  },
+
+  "btnPlay": {
+    "type": "Button",
+    "default": {
+      "text": "",
+      "url": "https://www.youtube.com/watch?v=M5S_JBRjd1s",
+      "color": "primary",
+      "size": "lg",
+      "circle": true,
+      "icon": {
+        "content": "fa fa-play"
+      },
+      "data": {
+        "provide": "lightbox"
+      }
+    }
+  },
+
+  "img": {
+    "type": "Image",
+    "default": {
+      "src": "(img) preview/shot-1.png",
+      "class": "shadow-2 rounded"
+    }
+  },
+
+  "txtTitle": "<strong>TheAdmin</strong>;<br>Template of 2018",
+  "txtText": "Responsive, professional, and multipurpose admin template powered by Bootstrap 4"
+
+}

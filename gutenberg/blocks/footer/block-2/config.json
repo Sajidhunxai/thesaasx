@@ -1,0 +1,30 @@
+{
+  "footer": {
+    "type": "Footer"
+  },
+
+  "imgLogo": {
+    "type": "Image",
+    "default": {
+      "src": "(img) logo-dark.png"
+    }
+  },
+
+  "links": [
+    {
+      "text": "About"
+    },
+    {
+      "text": "Blog"
+    },
+    {
+      "text": "Policy"
+    },
+    {
+      "text": "Contact"
+    }
+  ],
+
+  "txtText": "© 2018. All rights reserved."
+
+}

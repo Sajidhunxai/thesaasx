@@ -1,0 +1,40 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "textWhite": true,
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) thumb/3.jpg"
+      },
+      "overlay": {
+        "opacity": 10
+      }
+    }
+  },
+
+  "btnPlay": {
+    "type": "Button",
+    "default": {
+      "text": "",
+      "url": "https://www.youtube.com/watch?v=M5S_JBRjd1s",
+      "color": "info",
+      "size": "xl",
+      "circle": true,
+      "icon": {
+        "content": "fa fa-play"
+      },
+      "data": {
+        "provide": "lightbox"
+      }
+    }
+  },
+
+  "txtTitle": "About Us",
+  "txtLead": "Awesome Template Developers",
+  "txtText": "Easily track any workout you can imagine. Use any of our free workouts or make up your own."
+
+}

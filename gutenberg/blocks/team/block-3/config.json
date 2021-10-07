@@ -1,0 +1,70 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "textWhite": true,
+      "header": {
+        "small": "Team",
+        "title": "Our Crew",
+        "text": "Meet our small team that make those great products."
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) bg/13.jpg"
+      },
+      "overlay": {
+        "opacity": 90
+      }
+    }
+  },
+
+  "team": [
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) avatar/1.jpg"
+        }
+      },
+      "name": "Morgan Guadis",
+      "position": "Co-Founder & CEO",
+      "about": "Whose you're seasons subdue man dominion dry, said greater you fourth gathered night second."
+    },
+
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) avatar/2.jpg"
+        }
+      },
+      "name": "John Senating",
+      "position": "Co-Founder & CTO",
+      "about": "Whose you're seasons subdue man dominion dry, said greater you fourth gathered night second."
+    },
+
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) avatar/3.jpg"
+        }
+      },
+      "name": "Sandi Hormez",
+      "position": "Lead Developer",
+      "about": "Whose you're seasons subdue man dominion dry, said greater you fourth gathered night second."
+    },
+
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) avatar/4.jpg"
+        }
+      },
+      "name": "Animor Tiruse",
+      "position": "Designer",
+      "about": "Whose you're seasons subdue man dominion dry, said greater you fourth gathered night second."
+    }
+  ]
+}

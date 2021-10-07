@@ -1,0 +1,25 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "class": "text-center",
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "text": "Design your site now",
+      "color": "info",
+      "size": "lg",
+      "round": true
+    }
+  },
+
+  "txtTitle": "Join over 1,000 companies that trust us.",
+  "txtText": "Try it yourself 30 days free. No credit card required!"
+
+}

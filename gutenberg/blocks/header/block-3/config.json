@@ -1,0 +1,16 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "textWhite": true,
+      "class": "text-center",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "color": "#b9a0c9"
+      }
+    }
+  }
+}

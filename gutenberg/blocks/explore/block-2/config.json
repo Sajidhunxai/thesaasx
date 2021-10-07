@@ -1,0 +1,93 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "title": "Help Center",
+        "text": "Cards include various options for customizing their backgrounds, borders, and color."
+      }
+    }
+  },
+
+  "items": [
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "p-5 shadow-3 hover-shadow-6 text-default"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-comments",
+          "class": "lead-7",
+          "color": "#50a1ff"
+        }
+      },
+      "title": "Outstanding Community",
+      "text": "Now for manners use has company believe parlors. Least nor party who wrote while did. Excuse formed as is agreed admire so on result parish. Put use set uncommonly announcing and traveling."
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "p-5 shadow-3 hover-shadow-6 text-default"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-cubes",
+          "class": "lead-7",
+          "color": "#ffba00"
+        }
+      },
+      "title": "Powerful Extensions",
+      "text": "Now for manners use has company believe parlors. Least nor party who wrote while did. Excuse formed as is agreed admire so on result parish. Put use set uncommonly announcing and traveling."
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "p-5 shadow-3 hover-shadow-6 text-default"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-book",
+          "class": "lead-7",
+          "color": "#926dde"
+        }
+      },
+      "title": "API Documentation",
+      "text": "Now for manners use has company believe parlors. Least nor party who wrote while did. Excuse formed as is agreed admire so on result parish. Put use set uncommonly announcing and traveling."
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "p-5 shadow-3 hover-shadow-6 text-default"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-video-camera",
+          "class": "lead-7",
+          "color": "#ff4954"
+        }
+      },
+      "title": "Video Tutorials",
+      "text": "Now for manners use has company believe parlors. Least nor party who wrote while did. Excuse formed as is agreed admire so on result parish. Put use set uncommonly announcing and traveling."
+    }
+  ]
+}

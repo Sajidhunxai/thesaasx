@@ -1,0 +1,44 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "overflowHidden": true,
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "btnPlay": {
+    "type": "Button",
+    "default": {
+      "text": "Watch a video",
+      "url": "https://www.youtube.com/watch?v=M5S_JBRjd1s",
+      "color": "info",
+      "size": "lg",
+      "outline": true,
+      "icon": {
+        "content": "fa fa-play",
+        "class": "mr-4"
+      },
+      "data": {
+        "provide": "lightbox"
+      }
+    }
+  },
+
+  "imgCover": {
+    "type": "Image",
+    "default": {
+      "src": "(img) thumb/9.jpg",
+      "class": "rounded",
+      "data": {
+        "aos": "fade-left"
+      }
+    }
+  },
+
+  "txtTitle": "We made it easy peasy",
+  "txtText": "Fresh fellow even the whole is work outcome them. They original on mountains, drew the support time. The of to graduate. Into to is the to she at return understand every in there transmitting you've he the was and in finger."
+
+}

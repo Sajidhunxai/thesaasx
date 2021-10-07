@@ -1,0 +1,21 @@
+{
+  "footer": {
+    "type": "Footer"
+  },
+
+  "social": {
+    "type": "SocialIcons",
+    "default": {
+      "icons": {
+        "facebook": "#facebook",
+        "twitter": "#twitter",
+        "instagram": "#instagram",
+        "youtube": "#youtube"
+      },
+      "class": ""
+    }
+  },
+
+  "txtText": "© TheThemeio 2018, All rights reserved."
+
+}

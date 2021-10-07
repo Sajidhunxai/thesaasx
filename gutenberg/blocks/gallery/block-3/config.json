@@ -1,0 +1,41 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "container": "wide",
+      "paddingTop": "pt-0",
+      "paddingBottom": "pb-0",
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "slider": {
+    "type": "SlickSlider",
+    "default": {
+      "autoplay": true,
+      "arrows": true,
+      "dots": true,
+      "class": "slider-arrows-flash-light slider-dots-inside slider-dots-fill-primary"
+    }
+  },
+
+  "images": [
+    {
+      "img": "(img) thumb/14.jpg"
+    },
+
+    {
+      "img": "(img) thumb/15.jpg"
+    },
+
+    {
+      "img": "(img) thumb/12.jpg"
+    },
+
+    {
+      "img": "(img) thumb/13.jpg"
+    }
+  ]
+}

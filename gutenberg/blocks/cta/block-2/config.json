@@ -1,0 +1,29 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "paddingTop": "pt-7",
+      "paddingBottom": "pb-7",
+      "textWhite": true,
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "color": "#8ea6e6"
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "text": "Take a test drive",
+      "color": "light",
+      "size": "lg",
+      "round": true
+    }
+  },
+
+  "txtText": "Want a bite? You're in the right place!"
+
+}

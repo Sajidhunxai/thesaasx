@@ -1,0 +1,14 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "class": "bt-1",
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "txtTitle": "Related Projects",
+  "serverSideRender": false
+}

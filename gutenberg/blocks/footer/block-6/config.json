@@ -1,0 +1,42 @@
+{
+  "footer": {
+    "type": "Footer",
+    "default": {
+      "textWhite": true,
+      "paddingTop": "pt-7",
+      "paddingBottom": "pb-7",
+      "background": {
+        "color": "#191919"
+      }
+    }
+  },
+
+  "links": [
+    {
+      "text": "About"
+    },
+    {
+      "text": "Blog"
+    },
+    {
+      "text": "Contact"
+    }
+  ],
+
+  "social": {
+    "type": "SocialIcons",
+    "default": {
+      "icons": {
+        "facebook": "#facebook",
+        "twitter": "#twitter",
+        "instagram": "#instagram",
+        "youtube": "#youtube",
+        "dribbble": "#dribbble"
+      },
+      "class": "social-bg-dark"
+    }
+  },
+
+  "txtText": "© TheThemeio 2018, All rights reserved."
+
+}

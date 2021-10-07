@@ -1,0 +1,81 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "Contact",
+        "title": "Let's Talk",
+        "text": "They original on mountains, drew the support time. The of to graduate into to is the to she."
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "type": "submit",
+      "text": "Submit Inquiry",
+      "color": "primary",
+      "size": "xl",
+      "block": true
+    }
+  },
+
+  "mailer": {
+    "type": "Mailer",
+    "default": {
+      "class": "input-border"
+    }
+  },
+
+  "inputName": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Name",
+      "name": "name",
+      "type": "text",
+      "size": "lg"
+    }
+  },
+
+  "inputEmail": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Email",
+      "name": "email",
+      "type": "email",
+      "size": "lg"
+    }
+  },
+
+  "inputSubject": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Subject",
+      "name": "subject",
+      "type": "text",
+      "size": "lg"
+    }
+  },
+
+  "inputCompany": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Company Name",
+      "name": "company",
+      "type": "text",
+      "size": "lg"
+    }
+  },
+
+  "inputMessage": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Message",
+      "name": "message",
+      "type": "textarea",
+      "size": "lg"
+    }
+  }
+
+}

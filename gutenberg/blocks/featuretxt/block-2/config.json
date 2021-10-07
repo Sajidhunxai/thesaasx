@@ -1,0 +1,74 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "title": "More Features",
+        "text": "We are so excited and proud of our product. It's really easy to create a landing page for your awesome product."
+      }
+    }
+  },
+
+  "features": [
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-browser"
+        }
+      },
+      "text": "Works great in all modern browsers"
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-grid"
+        }
+      },
+      "text": "Based on Bootstrap framework 4"
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-paintbrush"
+        }
+      },
+      "text": "Elements with multiple colors"
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-documents"
+        }
+      },
+      "text": "Very well code documentation"
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-gift"
+        }
+      },
+      "text": "Variety of sample landing pages"
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-download"
+        }
+      },
+      "text": "Free updates forever"
+    }
+
+  ]
+}

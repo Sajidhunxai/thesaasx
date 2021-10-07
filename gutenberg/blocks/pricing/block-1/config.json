@@ -1,0 +1,132 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "Pricing",
+        "title": "Choose your perfect plan",
+        "text": "Won't said night above you're she'd behold moveth said one fowl. Beast forth. Man creepeth. She'd above bring blessed."
+      }
+    }
+  },
+
+
+  "cycle": {
+    "visible": true,
+    "color": "secondary"
+  },
+
+  "txtMonthly": "Monthly",
+  "txtYearly": "Yearly",
+
+
+  "items_mo": [],
+  "items_yr": [],
+
+
+  "btn1": {
+    "type": "Button",
+    "default": {
+      "text": "Get Started",
+      "color": "primary"
+    }
+  },
+
+  "btn2": {
+    "type": "Button",
+    "default": {
+      "text": "Get Started",
+      "color": "success"
+    }
+  },
+
+  "btn3": {
+    "type": "Button",
+    "default": {
+      "text": "Get Started",
+      "color": "primary"
+    }
+  },
+
+  "pricing1": {
+    "id": 1,
+    "name": "Single",
+    "price": "free",
+    "unit": "",
+    "period": "",
+    "text": "30 days free trial<br>Basic support<br>1 GB attachment"
+  },
+
+  "pricing2": {
+    "id": 2,
+    "name": "Studio",
+    "price": "39",
+    "unit": "$",
+    "period": "Billed monthly",
+    "text": "30 days free trial<br>Ticket support<br>100 GB attachment"
+  },
+
+  "pricing3": {
+    "id": 3,
+    "name": "Business",
+    "price": "69",
+    "unit": "$",
+    "period": "Billed monthly",
+    "text": "30 days free trial<br>Call support<br>Unlimited attachments"
+  },
+
+
+
+  "yr_btn1": {
+    "type": "Button",
+    "default": {
+      "text": "Get Started",
+      "color": "primary"
+    }
+  },
+
+  "yr_btn2": {
+    "type": "Button",
+    "default": {
+      "text": "Get Started",
+      "color": "success"
+    }
+  },
+
+  "yr_btn3": {
+    "type": "Button",
+    "default": {
+      "text": "Get Started",
+      "color": "primary"
+    }
+  },
+
+  "yr_pricing1": {
+    "id": 1,
+    "name": "Single",
+    "price": "free",
+    "unit": "",
+    "period": "",
+    "text": "30 days free trial<br>Basic support<br>1 GB attachment"
+  },
+
+  "yr_pricing2": {
+    "id": 2,
+    "name": "Studio",
+    "price": "399",
+    "unit": "$",
+    "period": "Billed yearly",
+    "text": "30 days free trial<br>Ticket support<br>100 GB attachment"
+  },
+
+  "yr_pricing3": {
+    "id": 3,
+    "name": "Business",
+    "price": "699",
+    "unit": "$",
+    "period": "Billed yearly",
+    "text": "30 days free trial<br>Call support<br>Unlimited attachments"
+  }
+
+
+}

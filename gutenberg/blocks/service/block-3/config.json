@@ -1,0 +1,94 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "Services",
+        "title": "Our Services",
+        "text": "Join thousands of satisfied customers using our template globally."
+      }
+    }
+  },
+
+  "services": [
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "textWhite": true,
+          "class": "card-body shadow-3 text-center",
+          "background": {
+            "color": "#3cd458"
+          }
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-browser",
+          "class": "lead-6"
+        }
+      },
+      "title": "Web Design",
+      "text": "He polite be object change. Consider no overcame yourself sociable children."
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "class": "card-body shadow-3 text-center"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-mobile",
+          "class": "lead-6"
+        }
+      },
+      "title": "Mobile App",
+      "text": "He polite be object change. Consider no overcame yourself sociable children."
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "textWhite": true,
+          "class": "card-body shadow-3 text-center",
+          "background": {
+            "color": "#926dde"
+          }
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-linegraph",
+          "class": "lead-6"
+        }
+      },
+      "title": "Digital Marketing",
+      "text": "He polite be object change. Consider no overcame yourself sociable children."
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "class": "card-body shadow-3 text-center"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-megaphone",
+          "class": "lead-6"
+        }
+      },
+      "title": "Branding Package",
+      "text": "He polite be object change. Consider no overcame yourself sociable children."
+    }
+  ]
+}

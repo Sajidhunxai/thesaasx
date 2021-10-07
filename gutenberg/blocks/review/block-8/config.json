@@ -1,0 +1,25 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "paddingTop": "pt-9",
+      "paddingBottom": "pb-9",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) thumb/18.jpg"
+      },
+      "overlay": {
+        "opacity": 90,
+        "type": "gradient",
+        "gradient": "linear-gradient(90deg, #fff 0%, transparent 100%)"
+      }
+    }
+  },
+
+  "txtTitle": "Highly recommend this template",
+  "txtText": "When you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.",
+  "txtName": "Steve Jobs"
+}

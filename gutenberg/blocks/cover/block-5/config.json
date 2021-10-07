@@ -1,0 +1,55 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "textWhite": true,
+      "overflowHidden": true,
+      "fullscreen": true,
+      "class": "bg-img-left",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) thumb/8.jpg"
+      },
+      "overlay": {
+        "opacity": 10
+      }
+    }
+  },
+
+  "btnPrimary": {
+    "type": "Button",
+    "default": {
+      "text": "Get started free",
+      "color": "info",
+      "size": "xl",
+      "round": true
+    }
+  },
+
+  "btnPlay": {
+    "type": "Button",
+    "default": {
+      "text": "",
+      "url": "https://www.youtube.com/watch?v=M5S_JBRjd1s",
+      "color": "dark",
+      "size": "xl",
+      "circle": true,
+      "class": "p-7",
+      "icon": {
+        "content": "fa fa-play"
+      },
+      "data": {
+        "provide": "lightbox"
+      }
+    }
+  },
+
+  "txtTitle": "Stay Healthy",
+  "txtLead": "Workout Tracking & Coaching",
+  "txtText": "Easily track any workout you can imagine. Use any of our free workouts or make up your own."
+
+}

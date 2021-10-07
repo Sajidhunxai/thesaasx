@@ -1,0 +1,38 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "overflowHidden": true,
+      "header": {
+        "small": "Video",
+        "title": "Explore",
+        "text": "Explore the best SaaS template in the market in a short 1-minute video."
+      }
+    }
+  },
+
+  "btnPlay": {
+    "type": "Button",
+    "default": {
+      "text": "",
+      "url": "https://www.youtube.com/watch?v=M5S_JBRjd1s",
+      "color": "info",
+      "size": "xl",
+      "circle": true,
+      "icon": {
+        "content": "fa fa-play"
+      },
+      "data": {
+        "provide": "lightbox"
+      }
+    }
+  },
+
+  "imgCover": {
+    "type": "Image",
+    "default": {
+      "src": "(img) thumb/9.jpg",
+      "class": "shadow-2 rounded-lg"
+    }
+  }
+}

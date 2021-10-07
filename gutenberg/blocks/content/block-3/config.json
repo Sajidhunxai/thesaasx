@@ -1,0 +1,14 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "txtTitle": "Redesign Your Website — It's 2018",
+  "txtText": "TheSaaS is an elegant, modern and fully customizable SaaS and WebApp template"
+
+}

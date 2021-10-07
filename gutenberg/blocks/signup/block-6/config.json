@@ -1,0 +1,60 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "textWhite": true,
+      "paddingTop": "pt-10",
+      "paddingBottom": "pb-10",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) bg/1.jpg"
+      },
+      "overlay": {
+        "opacity": 60
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "type": "submit",
+      "text": "Get Started",
+      "color": "success",
+      "size": "lg"
+    }
+  },
+
+  "form": {
+    "type": "Form",
+    "default": {
+      "class": "row gap-y input-glass"
+    }
+  },
+
+  "inputName": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Name",
+      "name": "name",
+      "type": "text",
+      "size": "lg"
+    }
+  },
+
+  "inputEmail": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Email",
+      "name": "email",
+      "type": "email",
+      "size": "lg"
+    }
+  },
+
+  "txtTitle": "Need an awesome website?"
+
+}

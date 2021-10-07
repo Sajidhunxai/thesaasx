@@ -1,0 +1,17 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) bg/4.jpg"
+      }
+    }
+  },
+
+  "txtLink": "Explore all the available blocks"
+}

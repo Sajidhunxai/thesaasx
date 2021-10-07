@@ -1,0 +1,31 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "title": "Contact Us",
+        "text": "They original on mountains, drew the support time. The of to graduate into to is the to she."
+      }
+    }
+  },
+
+  "cards": [
+    {
+      "title": "Business",
+      "text": "Some quick example text to build on the card title and make up the bulk.",
+      "link": "<a href=\"#\">0 800 123 4455</a>"
+    },
+
+    {
+      "title": "Press",
+      "text": "Some quick example text to build on the card title and make up the bulk.",
+      "link": "<a href=\"#\">info@example.com</a>"
+    },
+
+    {
+      "title": "Meet",
+      "text": "Some quick example text to build on the card title and make up the bulk.",
+      "link": "<a href=\"#\">Get Direction</a>"
+    }
+  ]
+}

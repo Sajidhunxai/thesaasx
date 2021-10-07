@@ -1,0 +1,23 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "class": "text-center",
+      "textWhite": true,
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) bg/1.jpg"
+      },
+      "overlay": {
+        "opacity": 70
+      }
+    }
+  },
+
+  "txtTitle": "Our Services",
+  "txtText": "We provide quality services to launch your startup or grow your business"
+
+}

@@ -1,0 +1,59 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "overflowHidden": true,
+      "paddingBottom": "pb-0",
+      "header": {
+        "small": "Features",
+        "title": "Full, Faster, Functional",
+        "text": "Completely leverage other's covalent products whereas covalent manufactured products."
+      }
+    }
+  },
+
+  "img1": {
+    "type": "Image",
+    "default": {
+      "src": "(img) preview/header-color.jpg",
+      "class": "shadow-4 opacity-90",
+      "data": {
+        "aos": "slide-up",
+        "aos-delay": 300
+      }
+    }
+  },
+
+  "img2": {
+    "type": "Image",
+    "default": {
+      "src": "(img) preview/header-gradient.jpg",
+      "class": "shadow-4",
+      "data": {
+        "aos": "slide-up",
+        "aos-delay": 0
+      }
+    }
+  },
+
+  "img3": {
+    "type": "Image",
+    "default": {
+      "src": "(img) preview/header-typing.jpg",
+      "class": "shadow-4 opacity-90",
+      "data": {
+        "aos": "slide-up",
+        "aos-delay": 600
+      }
+    }
+  },
+
+  "num1": "100+",
+  "txt1": "Screens",
+
+  "num2": "6.7x",
+  "txt2": "Faster",
+
+  "num3": "12",
+  "txt3": "Mockups"
+}

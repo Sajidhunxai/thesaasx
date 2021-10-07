@@ -1,0 +1,25 @@
+{
+  "type": "link",
+  "text": "Download",
+  "url": "#",
+  "color": "primary",
+  "size": "md",
+  "round": false,
+  "outline": false,
+  "circle": false,
+  "glass": false,
+  "block": false,
+  "targetBlank": false,
+  "minWidth": 0,
+  "class": "",
+  "icon": {
+    "content": "",
+    "color": "",
+    "size": 0,
+    "class": "",
+    "position": "before"
+  },
+  "data": {
+    "provide": ""
+  }
+}

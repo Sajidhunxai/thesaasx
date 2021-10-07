@@ -1,0 +1,75 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "Support",
+        "title": "Help Center",
+        "text": "It's really easy to create a landing page for your awesome product."
+      }
+    }
+  },
+
+  "items": [
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "px-6 py-8 shadow-11 hover-shadow-9 text-default border"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-book-open",
+          "class": "lead-7",
+          "color": "#50a1ff"
+        }
+      },
+      "title": "Knowledge Base",
+      "text": "Get started using this template by reading the helpful articles."
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "px-6 py-8 shadow-11 hover-shadow-9 text-default border"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-documents",
+          "class": "lead-7",
+          "color": "#50a1ff"
+        }
+      },
+      "title": "FAQ",
+      "text": "Lots of questions have asked before and have answers here."
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "px-6 py-8 shadow-11 hover-shadow-9 text-default border"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-chat",
+          "class": "lead-7",
+          "color": "#50a1ff"
+        }
+      },
+      "title": "Community",
+      "text": "Browse the comments section of the template in Themeforest."
+    }
+
+  ]
+}

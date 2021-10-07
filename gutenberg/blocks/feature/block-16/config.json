@@ -1,0 +1,37 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "overflowHidden": true,
+      "textWhite": true,
+      "switchable": true,
+      "switchSides": false,
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "color": "#65b7cc"
+      }
+    }
+  },
+
+  "img": {
+    "type": "Image",
+    "default": {
+      "src": "(img) vector/7.jpg"
+    }
+  },
+
+  "link": {
+    "type": "ReadMore",
+    "default": {
+      "text": "Read More",
+      "icon": "ti-angle-right",
+      "iconClass": "fs-10 ml-1"
+    }
+  },
+
+  "txtTitle": "International Payments",
+  "txtLead": "with a Single Click",
+  "txtText": "His everything its from of safe from her the have owner avoid violin, either little defined brown think a was position. Are with phase belly, waved being dull boundless dressed associates."
+}

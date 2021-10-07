@@ -1,0 +1,71 @@
+{
+  "footer": {
+    "type": "Footer",
+    "default": {
+      "paddingTop": "pt-7",
+      "paddingBottom": "pb-7"
+    }
+  },
+
+  "links1": [
+    {
+      "text": "Features"
+    },
+    {
+      "text": "Pricing"
+    },
+    {
+      "text": "Security"
+    },
+    {
+      "text": "Help"
+    },
+    {
+      "text": "Success Story"
+    }
+  ],
+
+  "links2": [
+    {
+      "text": "About"
+    },
+    {
+      "text": "Blog"
+    },
+    {
+      "text": "Press"
+    },
+    {
+      "text": "Policy"
+    },
+    {
+      "text": "Contact"
+    }
+  ],
+
+  "btnPrimary": {
+    "type": "Button",
+    "default": {
+      "text": "Start trial",
+      "color": "primary",
+      "class": "mr-2"
+    }
+  },
+
+  "btnSecondary": {
+    "type": "Button",
+    "default": {
+      "text": "Contact",
+      "color": "secondary"
+    }
+  },
+
+  "txtTitle1": "Get Started",
+  "txtTitle2": "Product",
+  "txtTitle3": "Company",
+  "txtTitle4": "We Are Awesome",
+  "txtText1": "Form so, head allowed how found at right, chosen put sad. Copy of field phase offers texts. Great family there first about that.",
+  "txtText2": "We’re a team of experienced designers and developers. We can combine beautiful, modern designs with clean, functional and high-performance code to produce stunning websites.",
+  "txtSmall": "© 2018 TheThemeio. All rights reserved."
+
+}

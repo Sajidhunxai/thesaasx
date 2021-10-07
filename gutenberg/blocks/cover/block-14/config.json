@@ -1,0 +1,47 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "textWhite": true,
+      "overflowHidden": true,
+      "fullscreen": true,
+      "class": "text-center",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) bg/1.jpg"
+      },
+      "overlay": {
+        "opacity": 90,
+        "color": "#563d7c"
+      }
+    }
+  },
+
+  "btnPrimary": {
+    "type": "Button",
+    "default": {
+      "text": "Download Now",
+      "color": "light",
+      "size": "xl",
+      "outline": true,
+      "round": true,
+      "minWidth": 300
+    }
+  },
+
+  "img": {
+    "type": "Image",
+    "default": {
+      "src": "(img) logo/bootstrap.png"
+    }
+  },
+
+  "txtTitle": "Bootstrap",
+  "txtSmall": "Currently v4.2.0",
+  "txtText": "The <b>most popular</b> HTML, CSS, and JS <b>framework</b> in the world for building responsive, mobile-first projects <b>on the web</b>."
+
+}

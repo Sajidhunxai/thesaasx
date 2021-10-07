@@ -1,0 +1,35 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "textWhite": true,
+      "paddingTop": "pt-13",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) bg/14.jpg",
+        "imageStyle": "fixed"
+      },
+      "overlay": {
+        "opacity": 50
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "text": "Find a local meeting",
+      "color": "light",
+      "size": "lg",
+      "round": true,
+      "minWidth": 300
+    }
+  },
+
+  "txtTitle": "Wonderful Community",
+  "txtText": "Hundreds of thousands of developers, content creators, and site owners gather at monthly meetups in 436 cities worldwide."
+
+}

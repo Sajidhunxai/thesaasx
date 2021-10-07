@@ -1,0 +1,65 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "title": "How Does It Work?",
+        "text": "Explore the best SaaS template in the market in a short 1-minute video."
+      }
+    }
+  },
+
+  "steps": [
+    {
+      "switch": false,
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) vector/1.png"
+        }
+      },
+      "number": "01",
+      "title": "Write your requirements",
+      "text": "Think the or organization same proposal to affected heard reclined in be it reassuring are attained opinion, by he neighbours even again. Is and by value and that like can from world."
+    },
+
+    {
+      "switch": true,
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) vector/2.png"
+        }
+      },
+      "number": "02",
+      "title": "Sign the contract",
+      "text": "Think the or organization same proposal to affected heard reclined in be it reassuring are attained opinion, by he neighbours even again. Is and by value and that like can from world."
+    },
+
+    {
+      "switch": false,
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) vector/3.png"
+        }
+      },
+      "number": "03",
+      "title": "We start developing",
+      "text": "Think the or organization same proposal to affected heard reclined in be it reassuring are attained opinion, by he neighbours even again. Is and by value and that like can from world."
+    },
+
+    {
+      "switch": true,
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) vector/4.png"
+        }
+      },
+      "number": "04",
+      "title": "Customer support begins",
+      "text": "Think the or organization same proposal to affected heard reclined in be it reassuring are attained opinion, by he neighbours even again. Is and by value and that like can from world."
+    }
+  ]
+}

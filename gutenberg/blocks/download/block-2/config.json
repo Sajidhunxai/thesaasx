@@ -1,0 +1,43 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "overflowHidden": true,
+      "header": {
+        "title": "Get it now",
+        "text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy."
+      }
+    }
+  },
+
+  "imgApp": {
+    "type": "Image",
+    "default": {
+      "src": "(img) preview/phone-2.png",
+      "data": {
+        "aos": "slide-up"
+      }
+    }
+  },
+
+  "imgApple": {
+    "type": "Image",
+    "default": {
+      "src": "(img) app/badge-apple.png",
+      "alt": "Download on Apple Store",
+      "url": "#",
+      "targetBlank": true
+    }
+  },
+
+  "imgGoogle": {
+    "type": "Image",
+    "default": {
+      "src": "(img) app/badge-google.png",
+      "alt": "Download on Google Play",
+      "url": "#",
+      "targetBlank": true
+    }
+  }
+
+}

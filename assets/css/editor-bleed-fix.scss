@@ -1,0 +1,21 @@
+
+
+//@import "../scss/vendor/fontawesome";
+//@import "../scss/vendor/themify-icons";
+//@import "../scss/vendor/et-line-icon";
+
+// Fix positioning issues
+.editor-block-list__block {
+  display: block !important;
+  min-height: auto !important;
+}
+
+// Fix unintentional display of scrollbar
+.edit-post-layout__content {
+  overflow-x: hidden;
+}
+
+.components-popover__content > .components-text-control__input {
+  margin: 0;
+  border-radius: 0;
+}

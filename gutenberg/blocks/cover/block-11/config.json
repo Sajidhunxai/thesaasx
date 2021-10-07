@@ -1,0 +1,49 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "textWhite": true,
+      "fullscreen": true,
+      "paddingBottom": "pb-8",
+      "class": "text-center text-lg-left",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) bg/5.jpg"
+      },
+      "overlay": {
+        "opacity": 80
+      }
+    }
+  },
+
+  "btnPrimary": {
+    "type": "Button",
+    "default": {
+      "text": "Demos",
+      "color": "primary",
+      "size": "lg",
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "btnSecondary": {
+    "type": "Button",
+    "default": {
+      "text": "Features",
+      "color": "light",
+      "size": "lg",
+      "round": true,
+      "outline": true,
+      "minWidth": 200
+    }
+  },
+
+  "txtTitle": "Create Professional Websites",
+  "txtText": "<strong>TheSaaS</strong> is a responsive, professional, and multipurpose SaaS template powered with Bootstrap 4."
+
+}

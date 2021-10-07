@@ -1,0 +1,98 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "type": "submit",
+      "text": "Send message",
+      "color": "primary",
+      "size": "lg"
+    }
+  },
+
+  "mailer": {
+    "type": "Mailer",
+    "default": {
+      "class": "col-lg-6"
+    }
+  },
+
+  "inputFirstname": {
+    "type": "Input",
+    "default": {
+      "placeholder": "First Name",
+      "name": "firstname",
+      "type": "text",
+      "size": "lg"
+    }
+  },
+
+  "inputLastname": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Last Name",
+      "name": "lastname",
+      "type": "text",
+      "size": "lg"
+    }
+  },
+
+  "inputEmail": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Email",
+      "name": "email",
+      "type": "email",
+      "size": "lg"
+    }
+  },
+
+  "inputPhone": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Phone",
+      "name": "phone",
+      "type": "text",
+      "size": "lg"
+    }
+  },
+
+  "inputMessage": {
+    "type": "Input",
+    "default": {
+      "placeholder": "What do you have in mind?",
+      "name": "message",
+      "type": "textarea",
+      "size": "lg"
+    }
+  },
+
+  "social": {
+    "type": "SocialIcons",
+    "default": {
+      "icons": {
+        "facebook": "#facebook",
+        "twitter": "#twitter",
+        "instagram": "#instagram",
+        "dribbble": "#dribbble"
+      },
+      "class": "social-sm social-inline"
+    }
+  },
+
+  "txtTitle": "Contact Us",
+  "txtTitleAddress": "Headquarter",
+  "txtAddress": "2651 Main Street, Suit 124<br>Seattle, WA, 98101",
+  "txtPhone": "+1 (321) 654 9870<br>+1 (987) 123 6548",
+  "txtEmail": "hello@thetheme.io",
+  "txtTitleSocial": "Follow Us"
+
+}

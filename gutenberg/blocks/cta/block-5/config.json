@@ -1,0 +1,32 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "text": "Go to help center",
+      "color": "info",
+      "size": "lg",
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "imgMain": {
+    "type": "Image",
+    "default": {
+      "src": "(img) vector/13.png"
+    }
+  },
+
+  "txtTitle": "Do you need some help?",
+  "txtText": "Visit our support center to get start"
+
+}

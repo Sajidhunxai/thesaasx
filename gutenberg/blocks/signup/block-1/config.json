@@ -1,0 +1,93 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "textWhite": true,
+      "paddingTop": "pt-10",
+      "paddingBottom": "pb-10",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) bg/1.jpg"
+      },
+      "overlay": {
+        "opacity": 50
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "type": "submit",
+      "text": "Get Started",
+      "color": "success",
+      "size": "lg",
+      "block": true
+    }
+  },
+
+  "form": {
+    "type": "Form",
+    "default": {
+      "class": "col-11 col-md-6 col-xl-5 mx-auto section-dialog bg-gray p-5 p-md-7"
+    }
+  },
+
+  "inputName": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Name",
+      "name": "name",
+      "type": "text"
+    }
+  },
+
+  "inputEmail": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Email",
+      "name": "email",
+      "type": "email"
+    }
+  },
+
+  "inputPass": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Password",
+      "name": "password",
+      "type": "password"
+    }
+  },
+
+  "iconName": {
+    "type": "Icon",
+    "default": {
+      "content": "fa fa-user",
+      "class": "fa-fw"
+    }
+  },
+
+  "iconEmail": {
+    "type": "Icon",
+    "default": {
+      "content": "fa fa-envelope-o",
+      "class": "fa-fw"
+    }
+  },
+
+  "iconPass": {
+    "type": "Icon",
+    "default": {
+      "content": "fa fa-key",
+      "class": "fa-fw"
+    }
+  },
+
+  "txtTitle": "Get started free",
+  "txtText": "Start to explore our product absolutely free."
+
+}

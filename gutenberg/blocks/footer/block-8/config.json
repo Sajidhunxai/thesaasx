@@ -1,0 +1,48 @@
+{
+  "footer": {
+    "type": "Footer"
+  },
+
+  "imgLogo": {
+    "type": "Image",
+    "default": {
+      "src": "(img) logo-dark.png"
+    }
+  },
+
+  "links": [
+    {
+      "text": "About"
+    },
+    {
+      "text": "Help"
+    },
+    {
+      "text": "Blog"
+    },
+    {
+      "text": "Policy"
+    },
+    {
+      "text": "Terms"
+    },
+    {
+      "text": "Contact"
+    }
+  ],
+
+  "social": {
+    "type": "SocialIcons",
+    "default": {
+      "icons": {
+        "facebook": "#facebook",
+        "twitter": "#twitter",
+        "instagram": "#instagram"
+      },
+      "class": "social-sm social-hover-bg-brand"
+    }
+  },
+
+  "txtText": "© TheThemeio 2018, All rights reserved."
+
+}

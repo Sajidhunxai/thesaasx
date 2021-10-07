@@ -1,0 +1,41 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "overflowHidden": true,
+      "switchable": true,
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "btnPlay": {
+    "type": "Button",
+    "default": {
+      "text": "",
+      "url": "https://www.youtube.com/watch?v=M5S_JBRjd1s",
+      "color": "info",
+      "size": "xs",
+      "circle": true,
+      "icon": {
+        "content": "fa fa-play"
+      },
+      "data": {
+        "provide": "lightbox"
+      }
+    }
+  },
+
+  "imgCover": {
+    "type": "Image",
+    "default": {
+      "src": "(img) vector/18.png"
+    }
+  },
+
+  "txtTitle": "How it works",
+  "txtText": "Fresh fellow even the whole is work outcome them. They original on mountains, drew the support time. The of to graduate. Into to is the to she at return understand.",
+  "txtPlay": "Play the video"
+
+}

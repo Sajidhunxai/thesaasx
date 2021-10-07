@@ -1,0 +1,51 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "textWhite": true,
+      "overflowHidden": true,
+      "fullscreen": true,
+      "paddingBottom": "pb-0",
+      "class": "text-center",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "color": "#262a37",
+        "image": "(img) vector/16.png"
+      },
+      "overlay": {
+        "opacity": 95,
+        "color": "#262a37"
+      }
+    }
+  },
+
+  "btnPrimary": {
+    "type": "Button",
+    "default": {
+      "text": "Get Started",
+      "color": "primary",
+      "size": "lg",
+      "round": true,
+      "class": "px-7"
+    }
+  },
+
+  "img": {
+    "type": "Image",
+    "default": {
+      "src": "(img) preview/laptop-2.png",
+      "class": "mt-7",
+      "data": {
+        "aos": "fade-up"
+      }
+    }
+  },
+
+  "txtTitle": "Increase your conversion with TheSaaS",
+  "txtText": "An elegant, modern and fully customizable SaaS and WebApp template"
+
+}

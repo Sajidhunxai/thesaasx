@@ -1,0 +1,55 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "textWhite": true,
+      "fullscreen": true,
+      "paddingTop": "pt-10",
+      "paddingBottom": "pb-10",
+      "class": "text-center",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "gradient",
+        "gradient": "linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%)"
+      }
+    }
+  },
+
+  "btnPrimary": {
+    "type": "Button",
+    "default": {
+      "text": "Start Now",
+      "color": "light",
+      "size": "lg",
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "btnSecondary": {
+    "type": "Button",
+    "default": {
+      "text": "Play Video",
+      "url": "https://www.youtube.com/watch?v=M5S_JBRjd1s",
+      "color": "light",
+      "size": "lg",
+      "round": true,
+      "outline": true,
+      "minWidth": 200,
+      "icon": {
+        "content": "fa fa-play",
+        "class": "mr-2"
+      },
+      "data": {
+        "provide": "lightbox"
+      }
+    }
+  },
+
+  "txtTitle": "A Template For Startups",
+  "txtText": "TheSaaS Is an elegant, modern and fully customizable template developed for software, SaaS product and Web Applications."
+
+}

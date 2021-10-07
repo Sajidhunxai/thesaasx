@@ -1,0 +1,33 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "fullscreen": true,
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "btnPrimary": {
+    "type": "Button",
+    "default": {
+      "text": "Share a design",
+      "color": "info",
+      "size": "xl",
+      "round": true
+    }
+  },
+
+  "img": {
+    "type": "Image",
+    "default": {
+      "src": "(img) vector/22.png"
+    }
+  },
+
+  "txtTitle": "Publish your designed things.",
+  "txtText": "TheSaaS is a place for any type of designers to share their works and give each other some love. You might also be able to get a job."
+
+}

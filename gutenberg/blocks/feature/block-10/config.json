@@ -1,0 +1,87 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "overflowHidden": true,
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "img": {
+    "type": "Image",
+    "default": {
+      "src": "(img) preview/header-gradient.jpg",
+      "class": "shadow-3",
+      "data": {
+        "aos": "fade-right",
+        "aos-duration": 1500
+      }
+    }
+  },
+
+  "features": [
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "ti-check",
+          "color": "#3cd458",
+          "class": "mr-2"
+        }
+      },
+      "text": "Can was instantly as being"
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "ti-check",
+          "color": "#3cd458",
+          "class": "mr-2"
+        }
+      },
+      "text": "After hands real five should"
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "ti-check",
+          "color": "#3cd458",
+          "class": "mr-2"
+        }
+      },
+      "text": "Young the writer's a was"
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "ti-check",
+          "color": "#3cd458",
+          "class": "mr-2"
+        }
+      },
+      "text": "As immediately the we people"
+    }
+
+  ],
+
+  "link": {
+    "type": "ReadMore",
+    "default": {
+      "text": "Learn More",
+      "icon": "ti-arrow-right",
+      "iconClass": "fs-10 ml-1",
+      "class": "text-uppercase fw-600 ls-2 small-2"
+    }
+  },
+
+  "txtTitle": "Unlimited Layout Option",
+  "txtText": "Designer duties, not just some of legs, the attained secure large obscurity, with I model most we his odd trade, made the an and another narrow she of other big in."
+}

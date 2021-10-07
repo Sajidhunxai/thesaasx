@@ -1,0 +1,73 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "textWhite": true,
+      "class": "bg-img-bottom text-center",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) bg/2.jpg"
+      },
+      "overlay": {
+        "opacity": 70
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "type": "submit",
+      "text": "Subscribe",
+      "color": "primary",
+      "size": "lg",
+      "block": true
+    }
+  },
+
+  "form": {
+    "type": "Form",
+    "default": {
+      "action": "https://thetheme.us14.list-manage.com/subscribe/post?u=c44b4a5628466e2a0a33ee835&amp;id=a07d860f34",
+      "method": "POST",
+      "targetBlank": true,
+      "class": "input-glass"
+    }
+  },
+
+  "inputEmail": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Email Address",
+      "name": "EMAIL",
+      "type": "email"
+    }
+  },
+
+  "iconEmail": {
+    "type": "Icon",
+    "default": {
+      "content": "fa fa-envelope"
+    }
+  },
+
+  "social": {
+    "type": "SocialIcons",
+    "default": {
+      "icons": {
+        "facebook": "#facebook",
+        "twitter": "#twitter",
+        "instagram": "#instagram"
+      },
+      "class": "social-light social-bg-dark text-center"
+    }
+  },
+
+
+  "txtTitle": "News and Updates",
+  "txtText": "Subscribe to our newsletter and receive the latest news from TheThemeio."
+
+}

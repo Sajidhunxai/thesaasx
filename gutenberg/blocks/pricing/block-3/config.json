@@ -1,0 +1,151 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "Pricing",
+        "title": "Choose License Type",
+        "text": "Won't said night above you're she'd behold moveth said one fowl. Beast forth. Man creepeth. She'd above bring blessed."
+      },
+      "background": {
+        "color": "#f9fafa"
+      }
+    }
+  },
+
+
+  "cycle": {
+    "visible": false,
+    "color": "secondary"
+  },
+
+  "txtMonthly": "Monthly",
+  "txtYearly": "Yearly",
+
+
+  "items_mo": [],
+  "items_yr": [],
+
+
+  "btn1": {
+    "type": "Button",
+    "default": {
+      "text": "Get Started",
+      "color": "primary",
+      "outline": true,
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "btn2": {
+    "type": "Button",
+    "default": {
+      "text": "Get Started",
+      "color": "primary",
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "btn3": {
+    "type": "Button",
+    "default": {
+      "text": "Get Started",
+      "color": "primary",
+      "outline": true,
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "pricing1": {
+    "id": 1,
+    "name": "Personal",
+    "price": "$9",
+    "unit": "",
+    "period": "",
+    "text": "Single Website<br>Manual Import<br>No Support"
+  },
+
+  "pricing2": {
+    "id": 2,
+    "name": "Team",
+    "price": "$59",
+    "unit": "",
+    "period": "",
+    "text": "7 Websites<br>Auto Import<br>10 Hour Support"
+  },
+
+  "pricing3": {
+    "id": 3,
+    "name": "Business",
+    "price": "$149",
+    "unit": "",
+    "period": "",
+    "text": "Unlimited Websites<br>Auto Import<br>24/7 Support"
+  },
+
+
+
+  "yr_btn1": {
+    "type": "Button",
+    "default": {
+      "text": "Get Started",
+      "color": "primary",
+      "outline": true,
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "yr_btn2": {
+    "type": "Button",
+    "default": {
+      "text": "Get Started",
+      "color": "primary",
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "yr_btn3": {
+    "type": "Button",
+    "default": {
+      "text": "Get Started",
+      "color": "primary",
+      "outline": true,
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "yr_pricing1": {
+    "id": 1,
+    "name": "Personal",
+    "price": "$99",
+    "unit": "",
+    "period": "",
+    "text": "Single Website<br>Manual Import<br>No Support"
+  },
+
+  "yr_pricing2": {
+    "id": 2,
+    "name": "Team",
+    "price": "$599",
+    "unit": "",
+    "period": "",
+    "text": "7 Websites<br>Auto Import<br>10 Hour Support"
+  },
+
+  "yr_pricing3": {
+    "id": 3,
+    "name": "Business",
+    "price": "Call Us",
+    "unit": "",
+    "period": "",
+    "text": "Unlimited Websites<br>Auto Import<br>24/7 Support"
+  }
+
+
+}

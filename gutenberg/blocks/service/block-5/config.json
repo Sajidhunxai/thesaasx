@@ -1,0 +1,66 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "Benefits",
+        "title": "About Working Here",
+        "text": "We are so excited and proud of our product. It's really easy to create a landing page."
+      }
+    }
+  },
+
+  "services": [
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-happy",
+          "color": "#bfc5ca",
+          "class": "lead-6 mb-5"
+        }
+      },
+      "title": "Health & Wellness",
+      "text": "Full health coverage for you and your family, and a $150 monthly fitness reimbursement."
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-newspaper",
+          "color": "#bfc5ca",
+          "class": "lead-6 mb-5"
+        }
+      },
+      "title": "Learning & Development",
+      "text": "Receive $500 annually towards a personal development opportunity of your choice."
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-profile-female",
+          "color": "#bfc5ca",
+          "class": "lead-6 mb-5"
+        }
+      },
+      "title": "Parental Leave",
+      "text": "Full health coverage for you and your family, and a $150 monthly fitness reimbursement."
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-globe",
+          "color": "#bfc5ca",
+          "class": "lead-6 mb-5"
+        }
+      },
+      "title": "Work Remotely",
+      "text": "A remote job is one that is done away from the office in a remote location, at any time of day."
+    }
+  ]
+}

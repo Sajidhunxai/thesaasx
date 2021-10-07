@@ -1,0 +1,56 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "title": "How Does It Work?",
+        "text": "Explore the best SaaS template in the market in a short 1-minute video."
+      }
+    }
+  },
+
+  "btnPlay": {
+    "type": "Button",
+    "default": {
+      "text": "",
+      "url": "https://www.youtube.com/watch?v=M5S_JBRjd1s",
+      "color": "info",
+      "size": "xl",
+      "circle": true,
+      "icon": {
+        "content": "fa fa-play"
+      },
+      "data": {
+        "provide": "lightbox"
+      }
+    }
+  },
+
+  "imgCover": {
+    "type": "Image",
+    "default": {
+      "src": "(img) thumb/6.jpg",
+      "class": "shadow-4 rounded-lg"
+    }
+  },
+
+  "steps": [
+    {
+      "number": "1",
+      "title": "Write your requirements",
+      "text": "Think the or organization same proposal to affected heard reclined in be it reassuring."
+    },
+
+    {
+      "number": "2",
+      "title": "Sign the contract",
+      "text": "Think the or organization same proposal to affected heard reclined in be it reassuring."
+    },
+
+    {
+      "number": "3",
+      "title": "We start developing",
+      "text": "Think the or organization same proposal to affected heard reclined in be it reassuring."
+    }
+  ]
+}

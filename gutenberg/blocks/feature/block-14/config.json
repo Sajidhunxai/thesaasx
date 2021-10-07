@@ -1,0 +1,34 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "overflowHidden": true,
+      "switchable": true,
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "img": {
+    "type": "Image",
+    "default": {
+      "src": "(img) preview/ipad-1.png",
+      "data": {
+        "aos": "fade-right"
+      }
+    }
+  },
+
+  "link": {
+    "type": "ReadMore",
+    "default": {
+      "text": "Read More",
+      "icon": "ti-angle-right",
+      "iconClass": "fs-10 ml-1"
+    }
+  },
+
+  "txtTitle": "Access Your Dashboard — Anywhere, Anytime",
+  "txtText": "His everything its from of safe from her the have owner avoid violin, either little defined brown think a was position. Are with phase belly, waved being dull boundless dressed associates."
+}

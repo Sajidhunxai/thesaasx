@@ -1,0 +1,55 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "features": [
+    {
+      "link": {
+        "type": "ReadMore",
+        "default": {
+          "text": "Read more",
+          "icon": "fa fa-angle-right",
+          "iconClass": "small-5 pl-1",
+          "class": "small-3 fw-400"
+        }
+      },
+      "title": "Lego Base",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content. Some quick example text to build."
+    },
+
+    {
+      "link": {
+        "type": "ReadMore",
+        "default": {
+          "text": "Read more",
+          "icon": "fa fa-angle-right",
+          "iconClass": "small-5 pl-1",
+          "class": "small-3 fw-400"
+        }
+      },
+      "title": "Page Builder",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content. Some quick example text to build."
+    },
+
+    {
+      "link": {
+        "type": "ReadMore",
+        "default": {
+          "text": "Read more",
+          "icon": "fa fa-angle-right",
+          "iconClass": "small-5 pl-1",
+          "class": "small-3 fw-400"
+        }
+      },
+      "title": "Responsive Design",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content. Some quick example text to build."
+    }
+
+  ]
+}

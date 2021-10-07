@@ -1,0 +1,44 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "overflowHidden": true,
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "img": {
+    "type": "Image",
+    "default": {
+      "src": "(img) preview/laptop-1.png",
+      "data": {
+        "aos": "fade-left"
+      }
+    }
+  },
+
+  "avatar": {
+    "type": "Image",
+    "default": {
+      "src": "(img) avatar/4.jpg",
+      "class": "avatar avatar-sm mr-4"
+    }
+  },
+
+  "stars": {
+    "type": "Rating",
+    "default": {
+      "value": 5,
+      "class": "mb-2 mt-8"
+    }
+  },
+
+  "txtQuote": "Some quick example text to build on the card title and make up the bulk of the card's content. Some quick example text to build on the card title.",
+  "txtName": "Hossein Shams",
+  "txtUser": "@thethemeio",
+
+  "txtTitle": "A dashboard with metrics",
+  "txtText": "Mountains, in the not respect prior the brown must loyalty. Terms, sides house. A their people on separated tone english too."
+}

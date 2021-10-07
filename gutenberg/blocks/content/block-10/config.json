@@ -1,0 +1,32 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "container": "wide",
+      "paddingTop": "pt-0",
+      "paddingBottom": "pb-0",
+      "switchable": true,
+      "switchSides": false,
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "text": "Read More",
+      "url": "#",
+      "color": "primary",
+      "round": true
+    }
+  },
+
+  "imgBg": "(img) thumb/2.jpg",
+
+  "txtSmall": "Marketing",
+  "txtTitle": "Increase Your Sale — Instantly",
+  "txtText": "Downstairs in you in discipline experience there's both have shall over called he peacefully, ticket a from be the in violin, empty where statement is me. Because behind in is now tend named bit for other concept."
+
+}

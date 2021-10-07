@@ -1,0 +1,73 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "textWhite": true,
+      "paddingTop": "pt-10",
+      "paddingBottom": "pb-10",
+      "class": "bg-img-bottom",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) bg/2.jpg"
+      },
+      "overlay": {
+        "opacity": 40
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "type": "submit",
+      "text": "Get Started",
+      "color": "success",
+      "size": "lg",
+      "block": true,
+      "class": "h-100"
+    }
+  },
+
+  "form": {
+    "type": "Form",
+    "default": {
+      "class": "row gap-y input-glass mt-8"
+    }
+  },
+
+  "inputName": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Name",
+      "name": "name",
+      "type": "text",
+      "size": "lg"
+    }
+  },
+
+  "inputEmail": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Email",
+      "name": "email",
+      "type": "email",
+      "size": "lg"
+    }
+  },
+
+  "inputPass": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Password",
+      "name": "password",
+      "type": "password",
+      "size": "lg"
+    }
+  },
+
+  "txtTitle": "Start Using TheSaaS Now!"
+
+}

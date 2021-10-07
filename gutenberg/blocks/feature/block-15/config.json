@@ -1,0 +1,97 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "overflowHidden": true,
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "img": {
+    "type": "Image",
+    "default": {
+      "src": "(img) vector/18.png"
+    }
+  },
+
+  "featuresLeft": [
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-caret-right",
+          "color": "#d3d3d3",
+          "class": "mr-2"
+        }
+      },
+      "text": "Minimalism Design"
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-caret-right",
+          "color": "#d3d3d3",
+          "class": "mr-2"
+        }
+      },
+      "text": "Typography"
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-caret-right",
+          "color": "#d3d3d3",
+          "class": "mr-2"
+        }
+      },
+      "text": "Responsive Design"
+    }
+
+  ],
+
+  "featuresRight": [
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-caret-right",
+          "color": "#d3d3d3",
+          "class": "mr-2"
+        }
+      },
+      "text": "Browser Compatibility"
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-caret-right",
+          "color": "#d3d3d3",
+          "class": "mr-2"
+        }
+      },
+      "text": "Parallax Scrolling"
+    }
+
+  ],
+
+  "link": {
+    "type": "ReadMore",
+    "default": {
+      "text": "Learn More",
+      "icon": "ti-arrow-right",
+      "iconClass": "fs-10 ml-1",
+      "class": "text-uppercase fw-600 ls-2 small-2"
+    }
+  },
+
+  "txtTitle": "Research & Development",
+  "txtText": "Designer duties, not just some of legs, the attained secure large obscurity, with I model most we his odd trade, made the an and another narrow she of other big in."
+}

@@ -1,0 +1,39 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "title": "Testimonials",
+        "text": "Join thousands of satisfied customers using our template globally."
+      }
+    }
+  },
+
+  "reviews": [
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) avatar/1.jpg",
+          "class": "avatar avatar-xs mr-3"
+        }
+      },
+      "name": "Maryam Amiri",
+      "user": "@maryami",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content. Some quick example text to build on."
+    },
+
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) avatar/2.jpg",
+          "class": "avatar avatar-xs mr-3"
+        }
+      },
+      "name": "Hossein Shams",
+      "user": "@shamsoft",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content. Some quick example text to build on."
+    }
+  ]
+}

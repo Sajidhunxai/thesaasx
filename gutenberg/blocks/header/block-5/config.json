@@ -1,0 +1,22 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "textWhite": true,
+      "fullscreen": true,
+      "paddingBottom": "pb-80",
+      "class": "text-center",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) thumb/5.jpg"
+      },
+      "overlay": {
+        "opacity": 90
+      }
+    }
+  }
+}

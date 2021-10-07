@@ -1,0 +1,54 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "textWhite": true,
+      "class": "text-center",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "color": "#56a9ef"
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "type": "submit",
+      "text": "Subscribe",
+      "color": "light"
+    }
+  },
+
+  "form": {
+    "type": "Form",
+    "default": {
+      "action": "https://thetheme.us14.list-manage.com/subscribe/post?u=c44b4a5628466e2a0a33ee835&amp;id=a07d860f34",
+      "method": "POST",
+      "targetBlank": true,
+      "class": "col-md-8 col-xl-5 input-glass mx-auto"
+    }
+  },
+
+  "inputEmail": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Email Address",
+      "name": "EMAIL",
+      "type": "email"
+    }
+  },
+
+  "iconEmail": {
+    "type": "Icon",
+    "default": {
+      "content": "fa fa-envelope"
+    }
+  },
+
+  "txtTitle": "Ready to get started?",
+  "txtText": "Stay up-to-date"
+
+}

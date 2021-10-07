@@ -1,0 +1,80 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "overflowHidden": true,
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "img": {
+    "type": "Image",
+    "default": {
+      "src": "(img) preview/header-gradient.jpg",
+      "class": "shadow-3",
+      "data": {
+        "aos": "fade-left",
+        "aos-duration": 1500
+      }
+    }
+  },
+
+  "features": [
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-tv",
+          "color": "#50a1ff",
+          "class": "lead-4 mb-5"
+        }
+      },
+      "title": "Responsive",
+      "text": "Professionally foster cross-platform solutions rather than highly."
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-wrench",
+          "color": "#50a1ff",
+          "class": "lead-4 mb-5"
+        }
+      },
+      "title": "Customizable",
+      "text": "Professionally foster cross-platform solutions rather than highly."
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-code",
+          "color": "#50a1ff",
+          "class": "lead-4 mb-5"
+        }
+      },
+      "title": "Clean",
+      "text": "Professionally foster cross-platform solutions rather than highly."
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-file-text-o",
+          "color": "#50a1ff",
+          "class": "lead-4 mb-5"
+        }
+      },
+      "title": "Documented",
+      "text": "Professionally foster cross-platform solutions rather than highly."
+    }
+  ],
+
+  "txtTitle": "Perfect for Your Business",
+  "txtText": "Designer duties, not just some of legs, the attained secure large obscurity, with I model most we his odd trade, made the an and another narrow she of other big in."
+}

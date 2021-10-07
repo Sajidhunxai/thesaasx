@@ -1,0 +1,223 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "Categories",
+        "title": "Browser Top Projects",
+        "text": "It's really easy to create a landing page for your awesome product."
+      }
+    }
+  },
+
+  "items": [
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "text-white text-center bg-img py-6",
+          "background": {
+            "type": "image",
+            "image": "(img) thumb/17.jpg"
+          },
+          "overlay": {
+            "opacity": 70
+          }
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-wordpress",
+          "class": "lead-5 opacity-70"
+        }
+      },
+      "title": "WordPress",
+      "text": "139 Projects"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "text-white text-center bg-img py-6",
+          "background": {
+            "type": "image",
+            "image": "(img) thumb/7.jpg"
+          },
+          "overlay": {
+            "opacity": 70
+          }
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-code",
+          "class": "lead-5 opacity-70"
+        }
+      },
+      "title": "PHP",
+      "text": "218 Projects"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "text-white text-center bg-img py-6",
+          "background": {
+            "type": "image",
+            "image": "(img) thumb/16.jpg"
+          },
+          "overlay": {
+            "opacity": 70
+          }
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-database",
+          "class": "lead-5 opacity-70"
+        }
+      },
+      "title": "Data Entry",
+      "text": "57 Projects"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "text-white text-center bg-img py-6",
+          "background": {
+            "type": "image",
+            "image": "(img) thumb/4.jpg"
+          },
+          "overlay": {
+            "opacity": 70
+          }
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-android",
+          "class": "lead-5 opacity-70"
+        }
+      },
+      "title": "Android",
+      "text": "94 Projects"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "text-white text-center bg-img py-6",
+          "background": {
+            "type": "image",
+            "image": "(img) thumb/6.jpg"
+          },
+          "overlay": {
+            "opacity": 70
+          }
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-line-chart",
+          "class": "lead-5 opacity-70"
+        }
+      },
+      "title": "Marketing",
+      "text": "27 Projects"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "text-white text-center bg-img py-6",
+          "background": {
+            "type": "image",
+            "image": "(img) thumb/5.jpg"
+          },
+          "overlay": {
+            "opacity": 70
+          }
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-globe",
+          "class": "lead-5 opacity-70"
+        }
+      },
+      "title": "Translation",
+      "text": "43 Projects"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "text-white text-center bg-img py-6",
+          "background": {
+            "type": "image",
+            "image": "(img) thumb/10.jpg"
+          },
+          "overlay": {
+            "opacity": 70
+          }
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-paint-brush",
+          "class": "lead-5 opacity-70"
+        }
+      },
+      "title": "Design",
+      "text": "139 Projects"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "text-white text-center bg-img py-6",
+          "background": {
+            "type": "image",
+            "image": "(img) thumb/18.jpg"
+          },
+          "overlay": {
+            "opacity": 70
+          }
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-folder-open",
+          "class": "lead-5 opacity-70"
+        }
+      },
+      "title": "See All",
+      "text": "25 Projects"
+    }
+
+  ]
+}

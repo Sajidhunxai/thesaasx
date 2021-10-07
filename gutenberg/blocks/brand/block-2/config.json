@@ -1,0 +1,63 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "paddingTop": "pt-6",
+      "paddingBottom": "pb-6",
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "brands": [
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) partner/1.png"
+        }
+      }
+    },
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) partner/2.png"
+        }
+      }
+    },
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) partner/3.png"
+        }
+      }
+    },
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) partner/4.png"
+        }
+      }
+    },
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) partner/5.png"
+        }
+      }
+    },
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) partner/6.png"
+        }
+      }
+    }
+  ]
+}

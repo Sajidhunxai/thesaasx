@@ -1,0 +1,36 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "textWhite": true,
+      "fullscreen": true,
+      "class": "text-center",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "color": "#4f407b"
+      },
+      "particles": {
+        "visible": true,
+        "color": "rgba(255,255,255,0.3)"
+      }
+    }
+  },
+
+  "btnPrimary": {
+    "type": "Button",
+    "default": {
+      "text": "See Demos",
+      "color": "light",
+      "size": "xl",
+      "round": true,
+      "class": "px-7"
+    }
+  },
+
+  "txtTitle": "TheSaaS",
+  "txtText": "Is an elegant, modern and fully customizable SaaS and WebApp template."
+
+}

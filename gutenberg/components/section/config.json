@@ -1,0 +1,54 @@
+{
+  "isHeaderTag": false,
+  "textWhite": false,
+  "fadeout": false,
+  "overflowHidden": false,
+  "fullscreen": false,
+  "switchable": false,
+  "switchSides": false,
+  "container": "",
+  "paddingTop": "",
+  "paddingBottom": "",
+  "borderTop": false,
+  "borderBottom": false,
+  "class": "",
+  "id": "",
+
+  "header": {
+    "visible": true,
+    "small": "",
+    "title": "",
+    "hr": true,
+    "text": ""
+  },
+
+  "background": {
+    "type": "color",
+    "color": "",
+    "gradient": "",
+    "image": "",
+    "imageStyle": ""
+  },
+
+  "video": {
+    "source": "youtube",
+    "youtube": "",
+    "hosted": "",
+    "poster": "",
+    "mute": true
+  },
+
+  "overlay": {
+    "opacity": 0,
+    "type": "color",
+    "color": "#000",
+    "gradient": ""
+  },
+
+  "particles": {
+    "visible": false,
+    "color": "",
+    "length": 150,
+    "radius": 150
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "navbar": {
+    "type": "Navbar"
+  },
+
+  "btn1": {
+    "type": "Button",
+    "default": {
+      "text": "Shop",
+      "color": "danger",
+      "size": "sm",
+      "round": true,
+      "outline": true,
+      "class": "mr-2"
+    }
+  },
+
+  "btn2": {
+    "type": "Button",
+    "default": {
+      "text": "Login",
+      "color": "danger",
+      "size": "sm",
+      "round": true
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "footer": {
+    "type": "Footer",
+    "default": {
+      "textWhite": true,
+      "paddingTop": "pt-7",
+      "paddingBottom": "pb-7",
+      "background": {
+        "type": "image",
+        "image": "(url) vector/9.jpg"
+      },
+      "overlay": {
+        "opacity": 80
+      }
+    }
+  },
+
+  "imgLogo": {
+    "type": "Image",
+    "default": {
+      "src": "(img) logo-dark.png"
+    }
+  },
+
+  "links1": [
+    {
+      "text": "About us"
+    },
+    {
+      "text": "Careers"
+    },
+    {
+      "text": "Press"
+    },
+    {
+      "text": "Brand Guidelines"
+    }
+  ],
+
+  "links2": [
+    {
+      "text": "Why TheThemeio?"
+    },
+    {
+      "text": "Success Stories"
+    },
+    {
+      "text": "Pricing"
+    },
+    {
+      "text": "Security"
+    }
+  ],
+
+  "links3": [
+    {
+      "text": "Freebies"
+    },
+    {
+      "text": "Partners"
+    },
+    {
+      "text": "Events"
+    },
+    {
+      "text": "Assets"
+    }
+  ],
+
+  "links4": [
+    {
+      "text": "Blog"
+    },
+    {
+      "text": "Forums"
+    },
+    {
+      "text": "Meetups"
+    },
+    {
+      "text": "For Investors"
+    }
+  ],
+
+  "links5": [
+    {
+      "text": "Help Center"
+    },
+    {
+      "text": "Guides"
+    },
+    {
+      "text": "API"
+    },
+    {
+      "text": "FAQ"
+    }
+  ],
+
+  "links6": [
+    {
+      "text": "Podcast"
+    },
+    {
+      "text": "Shop"
+    },
+    {
+      "text": "Licenses"
+    },
+    {
+      "text": "Become Affiliate"
+    }
+  ],
+
+
+  "social": {
+    "type": "SocialIcons",
+    "default": {
+      "icons": {
+        "facebook": "#facebook",
+        "twitter": "#twitter",
+        "youtube": "#youtube",
+        "instagram": "#instagram"
+      },
+      "class": ""
+    }
+  },
+
+  "txtTitle1": "Company",
+  "txtTitle2": "Product",
+  "txtTitle3": "Resources",
+  "txtTitle4": "Community",
+  "txtTitle5": "Support",
+  "txtTitle6": "Extras",
+  "txtSmall": "© 2018 TheThemeio. All rights reserved."
+
+}

@@ -1,0 +1,62 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "class": "text-center",
+      "header": {
+        "small": "Meet TheSaaS-X",
+        "title": "30 Days Free Trial",
+        "text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy."
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "type": "submit",
+      "text": "Sign up",
+      "color": "success",
+      "size": "xl",
+      "block": true
+    }
+  },
+
+  "form": {
+    "type": "Form",
+    "default": {
+      "class": "col-md-4 col-xl-4 mx-auto input-border"
+    }
+  },
+
+  "inputName": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Name",
+      "name": "name",
+      "type": "text",
+      "size": "lg"
+    }
+  },
+
+  "inputEmail": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Email",
+      "name": "email",
+      "type": "email",
+      "size": "lg"
+    }
+  },
+
+  "inputPass": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Password",
+      "name": "password",
+      "type": "password",
+      "size": "lg"
+    }
+  }
+
+}

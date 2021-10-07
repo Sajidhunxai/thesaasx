@@ -1,0 +1,49 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "textWhite": true,
+      "overflowHidden": true,
+      "fullscreen": true,
+      "paddingTop": "pt-0",
+      "paddingBottom": "pb-0",
+      "class": "text-center",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "video"
+      },
+      "video": {
+        "source": "hosted",
+        "hosted": "(img) video/1.mp4",
+        "poster": "(img) video/1.jpg"
+      },
+      "overlay": {
+        "opacity": 70
+      }
+    }
+  },
+
+  "btnPrimary": {
+    "type": "Button",
+    "default": {
+      "text": "",
+      "url": "https://www.youtube.com/watch?v=M5S_JBRjd1s",
+      "color": "light",
+      "size": "lg",
+      "circle": true,
+      "icon": {
+        "content": "fa fa-play"
+      },
+      "data": {
+        "provide": "lightbox"
+      }
+    }
+  },
+
+  "txtTitle": "Landing Page For Your SaaS",
+  "txtText": "Watch a demo video in one minute before taking your decision"
+
+}

@@ -1,0 +1,60 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "color": "#f9fafa"
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "type": "submit",
+      "text": "Send Message",
+      "color": "primary",
+      "block": true
+    }
+  },
+
+  "mailer": {
+    "type": "Mailer",
+    "default": {
+      "class": ""
+    }
+  },
+
+  "inputName": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Your Name",
+      "name": "name",
+      "type": "text"
+    }
+  },
+
+  "inputEmail": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Email Address",
+      "name": "email",
+      "type": "email"
+    }
+  },
+
+  "inputCompany": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Company Name",
+      "name": "company",
+      "type": "text"
+    }
+  },
+
+  "txtTitle": "Poke Us"
+
+}

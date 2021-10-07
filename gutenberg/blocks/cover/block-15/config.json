@@ -1,0 +1,36 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "class": "bg-size-contain bg-img-right",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "image",
+        "image": "(img) vector/21.png"
+      },
+      "overlay": {
+        "opacity": 95,
+        "type": "gradient",
+        "gradient": "linear-gradient(90deg, #fff 30%, transparent 100%)"
+      }
+    }
+  },
+
+  "btnPrimary": {
+    "type": "Button",
+    "default": {
+      "text": "Download Now",
+      "color": "success",
+      "size": "xl",
+      "round": true,
+      "minWidth": 250
+    }
+  },
+
+  "txtTitle": "The #1 Web Creator",
+  "txtText": "WordPress is open source software you can use to create a beautiful website, blog, or app."
+
+}

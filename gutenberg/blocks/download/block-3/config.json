@@ -1,0 +1,45 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "overflowHidden": true,
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "imgApp": {
+    "type": "Image",
+    "default": {
+      "src": "(img) preview/phone-2.png",
+      "data": {
+        "aos": "slide-up"
+      }
+    }
+  },
+
+  "imgApple": {
+    "type": "Image",
+    "default": {
+      "src": "(img) app/badge-apple.png",
+      "alt": "Download on Apple Store",
+      "url": "#",
+      "targetBlank": true
+    }
+  },
+
+  "imgGoogle": {
+    "type": "Image",
+    "default": {
+      "src": "(img) app/badge-google.png",
+      "alt": "Download on Google Play",
+      "url": "#",
+      "targetBlank": true
+    }
+  },
+
+  "txtTitle": "Now Available",
+  "txtText": "As absolute is by amounted repeated entirely ye returned. These ready timed enjoy might sir yet one since. Years drift never if could forty being no. On estimable dependent as suffering on my."
+
+}

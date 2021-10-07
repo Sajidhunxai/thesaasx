@@ -1,0 +1,25 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "container": "wide",
+      "paddingTop": "pt-0",
+      "paddingBottom": "pb-0",
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "map": {
+    "type": "GoogleMap",
+    "default": {
+      "class": "h-100"
+    }
+  },
+
+  "txtSmall": "Head Office",
+  "txtTitle": "Seattle, WA",
+  "txtText": "2651 Main Street, Suit 124<br>Seattle, WA, 98101<br><br>Phone: +1 987 123 6548<br>Email: hello@thetheme.io"
+
+}

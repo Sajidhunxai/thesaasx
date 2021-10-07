@@ -1,0 +1,39 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "FAQ",
+        "title": "Frequently Asked Questions",
+        "text": "Got a question? We've got answers. If you have some other questions, contact us using email."
+      }
+    }
+  },
+
+  "faqs": [
+    {
+      "question": "Is this a secure site for purchases?",
+      "answer": "Absolutely! We work with top payment companies which guarantees your safety and security. All billing information is stored on our payment processing partner which has the most stringent level of certification available in the payments industry."
+    },
+    {
+      "question": "Can I cancel my subscription?",
+      "answer": "You can cancel your subscription anytime in your account. Once the subscription is cancelled, you will not be charged next month. You will continue to have access to your account until your current subscription expires."
+    },
+    {
+      "question": "How long are your contracts?",
+      "answer": "Currently, we only offer monthly subscription. You can upgrade or cancel your monthly account at any time with no further obligation."
+    },
+    {
+      "question": "Can I update my card details?",
+      "answer": "Yes. Go to the billing section of your dashboard and update your payment information."
+    },
+    {
+      "question": "Can I request refund?",
+      "answer": "Unfortunately, not. We do not issue full or partial refunds for any reason."
+    },
+    {
+      "question": "Can I try your service for free?",
+      "answer": "Of course! We’re happy to offer a free plan to anyone who wants to try our service."
+    }
+  ]
+}

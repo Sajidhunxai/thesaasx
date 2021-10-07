@@ -1,0 +1,45 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "features": [
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-presentation"
+        }
+      },
+      "title": "Present",
+      "text": "Option as can distributors. And to suppliers, given a copy the horrible arrange yes, we had hundreds leave was more."
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-scope"
+        }
+      },
+      "title": "Impression",
+      "text": "Option as can distributors. And to suppliers, given a copy the horrible arrange yes, we had hundreds leave was more."
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-target"
+        }
+      },
+      "title": "Conversion",
+      "text": "Option as can distributors. And to suppliers, given a copy the horrible arrange yes, we had hundreds leave was more."
+    }
+  ]
+}

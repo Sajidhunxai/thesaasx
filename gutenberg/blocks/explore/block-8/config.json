@@ -1,0 +1,49 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "title": "Layout Blocks",
+        "text": "List of blocks and samples to help you design the layout of your pages."
+      }
+    }
+  },
+
+  "items": [
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "card-body border hover-shadow-5"
+        }
+      },
+      "title": "Cover",
+      "text": "No page can go online without having an eye catching cover."
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "card-body border hover-shadow-5"
+        }
+      },
+      "title": "Header",
+      "text": "Create an introductory content before your content starts."
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "card-body border hover-shadow-5"
+        }
+      },
+      "title": "Footer",
+      "text": "Endless number of footer samples to help you get started and learn footer design."
+    }
+  ]
+}

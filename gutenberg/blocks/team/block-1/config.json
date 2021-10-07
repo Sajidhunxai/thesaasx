@@ -1,0 +1,106 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "Team",
+        "title": "Executive Team",
+        "text": "Meet our small team that make those great products."
+      }
+    }
+  },
+
+  "team": [
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) avatar/5.jpg"
+        }
+      },
+      "social": {
+        "type": "SocialIcons",
+        "default": {
+          "class": "social-gray",
+          "icons": {
+            "facebook": "#facebook",
+            "twitter": "#twitter",
+            "instagram": "#instagram"
+          }
+        }
+      },
+      "name": "Morgan Guadis",
+      "position": "Co-Founder & CEO",
+      "about": "Uniquely grow resource maximizing outsourcing for excellent core."
+    },
+
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) avatar/6.jpg"
+        }
+      },
+      "social": {
+        "type": "SocialIcons",
+        "default": {
+          "class": "social-gray",
+          "icons": {
+            "facebook": "#facebook",
+            "twitter": "#twitter",
+            "instagram": "#instagram"
+          }
+        }
+      },
+      "name": "John Senating",
+      "position": "Co-Founder & CTO",
+      "about": "Uniquely grow resource maximizing outsourcing for excellent core."
+    },
+
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) avatar/7.jpg"
+        }
+      },
+      "social": {
+        "type": "SocialIcons",
+        "default": {
+          "class": "social-gray",
+          "icons": {
+            "facebook": "#facebook",
+            "twitter": "#twitter",
+            "instagram": "#instagram"
+          }
+        }
+      },
+      "name": "Sandi Hormez",
+      "position": "Lead Developer",
+      "about": "Uniquely grow resource maximizing outsourcing for excellent core."
+    },
+
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) avatar/8.jpg"
+        }
+      },
+      "social": {
+        "type": "SocialIcons",
+        "default": {
+          "class": "social-gray",
+          "icons": {
+            "facebook": "#facebook",
+            "twitter": "#twitter",
+            "instagram": "#instagram"
+          }
+        }
+      },
+      "name": "Animor Tiruse",
+      "position": "Designer",
+      "about": "Uniquely grow resource maximizing outsourcing for excellent core."
+    }
+  ]
+}

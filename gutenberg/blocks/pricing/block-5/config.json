@@ -1,0 +1,76 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "color": "#f9fafa"
+      }
+    }
+  },
+
+
+  "cycle": {
+    "visible": true,
+    "color": "secondary"
+  },
+
+  "txtMonthly": "Monthly",
+  "txtYearly": "Yearly",
+
+
+  "items_mo": [],
+  "items_yr": [],
+
+
+  "btn1": {
+    "type": "Button",
+    "default": {
+      "text": "Sign up",
+      "color": "secondary",
+      "outline": true,
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "pricing1": {
+    "id": 1,
+    "name": "Starter",
+    "price": "$6.",
+    "price99": "99",
+    "period": "Billed Monthly",
+    "text": "Single Website<br>60GB Bandwidth<br>Manual Import<br>Email Support"
+  },
+
+
+
+  "yr_btn1": {
+    "type": "Button",
+    "default": {
+      "text": "Sign up",
+      "color": "secondary",
+      "outline": true,
+      "round": true,
+      "minWidth": 200
+    }
+  },
+
+  "yr_pricing1": {
+    "id": 1,
+    "name": "Starter",
+    "price": "$68.",
+    "price99": "99",
+    "period": "Billed Yearly",
+    "text": "Single Website<br>60GB Bandwidth<br>Manual Import<br>Email Support"
+  },
+
+
+
+  "txtSmall": "Pricing plans",
+  "txtTitle": "Choose your pricing plan,<br>No hidden fees!",
+  "txtText": "We have a single plan which you can choose to pay monthly or yearly. You can always cancel your subscription anytime from your account."
+
+}

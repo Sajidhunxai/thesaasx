@@ -1,0 +1,51 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "textWhite": true,
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "color": "#1b8bf9"
+      }
+    }
+  },
+
+  "numbers": [
+    {
+      "countup": {
+        "type": "Countup",
+        "default": {
+          "from": 0,
+          "to": 42
+        }
+      },
+      "text": "Finished Projects"
+    },
+
+    {
+      "countup": {
+        "type": "Countup",
+        "default": {
+          "from": 0,
+          "to": 3500
+        }
+      },
+      "text": "Happy Customers"
+    },
+
+    {
+      "countup": {
+        "type": "Countup",
+        "default": {
+          "from": 0,
+          "to": 100,
+          "prefix": "%"
+        }
+      },
+      "text": "User Satisfaction"
+    }
+
+  ]
+}

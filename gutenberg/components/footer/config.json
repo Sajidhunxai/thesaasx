@@ -1,0 +1,30 @@
+{
+  "textWhite": false,
+  "borderTop": true,
+  "paddingTop": "",
+  "paddingBottom": "",
+  "container": "",
+  "class": "",
+  "id": "",
+  "background": {
+    "type": "color",
+    "color": "",
+    "gradient": "",
+    "image": "",
+    "imageStyle": ""
+  },
+
+  "overlay": {
+    "opacity": 0,
+    "type": "color",
+    "color": "#000",
+    "gradient": ""
+  },
+
+  "particles": {
+    "visible": false,
+    "color": "",
+    "length": 150,
+    "radius": 150
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "switchable": true,
+      "switchSides": false,
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "img": {
+    "type": "Image",
+    "default": {
+      "src": "(img) thumb/15.jpg",
+      "class": "rounded-md"
+    }
+  },
+
+  "txtSmall": "Design",
+  "txtTitle": "Responsive Web Design",
+  "txtText": "Instrument cultivated alteration any favourable expression law far nor. Both new like tore but year. An from mean on with when sing pain. Oh to as principles devonshire companions unsatiable an delightful. The ourselves suffering the sincerity. Inhabit her manners adapted age certain. Debating offended at branched striking be subjects."
+
+}

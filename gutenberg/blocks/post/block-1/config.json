@@ -1,0 +1,15 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "switchable": true,
+      "switchSides": false,
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "postId": 1,
+  "serverSideRender": false
+}

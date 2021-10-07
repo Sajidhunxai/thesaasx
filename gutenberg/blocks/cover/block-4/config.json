@@ -1,0 +1,51 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "fullscreen": true,
+      "textWhite": true,
+      "class": "text-center text-lg-left",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "color": "#4621ad"
+      }
+    }
+  },
+
+  "btnPrimary": {
+    "type": "Button",
+    "default": {
+      "text": "See demos",
+      "color": "light",
+      "round": true,
+      "outline": true,
+      "minWidth": 170
+    }
+  },
+
+  "btnSecondary": {
+    "type": "Button",
+    "default": {
+      "text": "Buy now",
+      "color": "light",
+      "round": true,
+      "minWidth": 170
+
+    }
+  },
+
+  "img": {
+    "type": "Image",
+    "default": {
+      "src": "(img) preview/laptop-1.png",
+      "class": "mt-5"
+    }
+  },
+
+  "txtTitle": "Better Website Design; More Conversion",
+  "txtText": "TheSaaS is an elegant, modern and fully customizable SaaS and WebApp template"
+
+}

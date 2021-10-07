@@ -1,0 +1,72 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "container": "wide",
+      "paddingTop": "pt-0",
+      "paddingBottom": "pb-0",
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "map": {
+    "type": "GoogleMap",
+    "default": {
+      "height": 300,
+      "class": "h-100"
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "type": "submit",
+      "text": "Submit Inquiry",
+      "color": "primary",
+      "size": "lg",
+      "block": true
+    }
+  },
+
+  "mailer": {
+    "type": "Mailer",
+    "default": {
+      "class": "bg-gray p-6"
+    }
+  },
+
+  "inputName": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Your Name",
+      "name": "name",
+      "type": "text",
+      "size": "lg"
+    }
+  },
+
+  "inputEmail": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Your Email Address",
+      "name": "email",
+      "type": "email",
+      "size": "lg"
+    }
+  },
+
+  "inputMessage": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Your Message",
+      "name": "message",
+      "type": "textarea",
+      "size": "lg"
+    }
+  },
+
+  "txtTitle": "Send us a message"
+
+}

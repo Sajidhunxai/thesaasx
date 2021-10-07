@@ -1,0 +1,39 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "img": {
+    "type": "Image",
+    "default": {
+      "src": "(img) portfolio/4.jpg"
+    }
+  },
+
+  "details": [
+    {
+      "title": "Client",
+      "text": "Envato Inc."
+    },
+    {
+      "title": "Date",
+      "text": "June 27, 2019"
+    },
+    {
+      "title": "Skills",
+      "text": "Design, HTML, CSS, Javascript"
+    },
+    {
+      "title": "Address",
+      "text": "<a href=\"http://thetheme.io/thesaasx\">thetheme.io/thesaasx</a>"
+    }
+  ],
+
+  "txtTitle": "Project detail",
+  "txtText": "Out or geared it but to best up samples the for she phase of copy would do in divine of taken and the take medical or upper at him in the logbook were, we price his mostly to commas."
+}

@@ -1,0 +1,48 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "Features",
+        "title": "More Than You Think",
+        "text": "We are so excited and proud of our product. It's really easy to create a landing page for your awesome product."
+      }
+    }
+  },
+
+  "features": [
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) icon/planet.png"
+        }
+      },
+      "title": "Be The First",
+      "text": "Fly beast fourth, you stars. Them seasons sea spirit, which second. Hath May whales, creepeth light she'd. Moving saw fish."
+    },
+
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) icon/rocket.png"
+        }
+      },
+      "title": "Skyrocket You Sells",
+      "text": "Yielding to Made saying fruit deep abundantly bearing sixth make you're gathering unto divided, you so which god, gathering."
+    },
+
+    {
+      "img": {
+        "type": "Image",
+        "default": {
+          "src": "(img) icon/dog.png"
+        }
+      },
+      "title": "Acquire Potential Users",
+      "text": "Good for divide Given spirit night after fruit of great together he behold their night, living shall after dry saw saying fruit deep."
+    }
+
+  ]
+}

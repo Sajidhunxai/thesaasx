@@ -1,0 +1,18 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "switchable": true,
+      "switchSides": false,
+      "paddingTop": "pt-0",
+      "paddingBottom": "pb-0",
+      "container": "wide",
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "postId": 1,
+  "serverSideRender": false
+}

@@ -1,0 +1,35 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "overflowHidden": true,
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "img": {
+    "type": "Image",
+    "default": {
+      "src": "(img) preview/phone-2.png",
+      "data": {
+        "aos": "fade-up"
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "text": "See More Features",
+      "color": "primary",
+      "size": "lg",
+      "round": true,
+      "class": "shadow-3"
+    }
+  },
+
+  "txtTitle": "Create Admin Area",
+  "txtText": "A dull and avoid children was of neighbours on be into could on rationally it the survey monitors alone, leave forward by around a temple. The time. Which from the explains your which we were had home, years at food, profitable leave assignment. Manipulate stupid again. Have for view news following in and economic are with ran him."
+}

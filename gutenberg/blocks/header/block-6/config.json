@@ -1,0 +1,12 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "class": "text-center",
+      "header": {
+        "visible": false
+      }
+    }
+  }
+}

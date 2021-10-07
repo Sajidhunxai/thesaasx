@@ -1,0 +1,38 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "class": "text-center",
+      "header": {
+        "title": "Join The Community — It's Free",
+        "text": "We waited until we could do it right. Then we did! Instead of creating a carbon copy."
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "type": "submit",
+      "text": "Join for free",
+      "color": "primary"
+    }
+  },
+
+  "form": {
+    "type": "Form",
+    "default": {
+      "class": "input-round"
+    }
+  },
+
+  "input": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Enter Email Address",
+      "name": "email",
+      "type": "email"
+    }
+  }
+
+}

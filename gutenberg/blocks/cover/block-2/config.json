@@ -1,0 +1,46 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "isHeaderTag": true,
+      "fullscreen": true,
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "type": "gradient",
+        "gradient": "linear-gradient(135deg, #f9f7ff 0%, #fff 50%, #f6f3ff 100%)"
+      }
+    }
+  },
+
+  "btnPrimary": {
+    "type": "Button",
+    "default": {
+      "text": "Find restaurants",
+      "color": "primary",
+      "round": true
+    }
+  },
+
+  "btnSecondary": {
+    "type": "Button",
+    "default": {
+      "text": "Order now",
+      "color": "primary",
+      "round": true,
+      "outline": true
+    }
+  },
+
+  "img": {
+    "type": "Image",
+    "default": {
+      "src": "(img) vector/17.png"
+    }
+  },
+
+  "txtTitle": "Find the best rated<br>restaurants near you.",
+  "txtText": "We can help you find the best restaurants, fast foods, and cafes near you; take an order and deliver it to your door. Register once, and order from everywhere."
+
+}

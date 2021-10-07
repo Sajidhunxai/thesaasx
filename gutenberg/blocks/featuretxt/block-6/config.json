@@ -1,0 +1,38 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "container": "wide",
+      "paddingTop": "pt-0",
+      "paddingBottom": "pb-0",
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "iconL": {
+    "type": "Icon",
+    "default": {
+      "content": "icon-mobile",
+      "color": "#ffba00",
+      "class": "lead-8"
+    }
+  },
+  "titleL": "Responsive Design",
+  "textL": "Fresh fellow even the whole is work outcome them. They original on mountains, drew the support time. The of to graduate. Into to is the to she at return understand every in there.",
+  "linkL": "<a href=\"#\">Read More</a>",
+
+  "iconR": {
+    "type": "Icon",
+    "default": {
+      "content": "icon-recycle",
+      "color": "#ffba00",
+      "class": "lead-8"
+    }
+  },
+  "titleR": "Reusable Code",
+  "textR": "Fresh fellow even the whole is work outcome them. They original on mountains, drew the support time. The of to graduate. Into to is the to she at return understand every in there.",
+  "linkR": "<a href=\"#\">Read More</a>"
+
+}

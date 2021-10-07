@@ -1,0 +1,72 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "textWhite": true,
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "color": "#363636"
+      }
+    }
+  },
+
+  "numbers": [
+    {
+      "countup": {
+        "type": "Countup",
+        "default": {
+          "from": 0,
+          "to": 42
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-briefcase",
+          "class": "lead-4 mb-0"
+        }
+      },
+      "text": "Projects"
+    },
+
+    {
+      "countup": {
+        "type": "Countup",
+        "default": {
+          "from": 0,
+          "to": 3500
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-profile-male",
+          "class": "lead-4 mb-0"
+        }
+      },
+      "text": "Customers"
+    },
+
+    {
+      "countup": {
+        "type": "Countup",
+        "default": {
+          "from": 0,
+          "to": 100,
+          "prefix": "%"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-happy",
+          "class": "lead-4 mb-0"
+        }
+      },
+      "text": "Satisfaction"
+    }
+
+  ]
+}

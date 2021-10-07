@@ -1,0 +1,24 @@
+{
+  "navbar": {
+    "type": "Navbar"
+  },
+
+  "btn1": {
+    "type": "Button",
+    "default": {
+      "text": "Login",
+      "color": "light",
+      "size": "sm",
+      "class": "mr-2"
+    }
+  },
+
+  "btn2": {
+    "type": "Button",
+    "default": {
+      "text": "Sign up",
+      "color": "success",
+      "size": "sm"
+    }
+  }
+}

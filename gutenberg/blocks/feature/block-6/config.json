@@ -1,0 +1,58 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "overflowHidden": true,
+      "paddingBottom": "pb-0",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "color": "#f9fafa"
+      }
+    }
+  },
+
+  "img": {
+    "type": "Image",
+    "default": {
+      "src": "(img) preview/phone-1.png",
+      "data": {
+        "aos": "fade-up",
+        "aos-delay": 200
+      }
+    }
+  },
+
+  "features": [
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-heart",
+          "color": "#ff4954",
+          "class": "lead-5"
+        }
+      },
+      "title": "Creative Design",
+      "text": "You're very second god creeping air saying you're tree female thing Make also signs together, night winged. God yielding first."
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-video",
+          "color": "#ffba00",
+          "class": "lead-5"
+        }
+      },
+      "title": "Cool Animations",
+      "text": "You're very second god creeping air saying you're tree female thing Make also signs together, night winged. God yielding first."
+    }
+
+  ],
+
+  "txtTitle": "Features",
+  "txtText": "Professionally impact focused strategic theme areas via worldwide synergy."
+}

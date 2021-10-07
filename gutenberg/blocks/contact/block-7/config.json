@@ -1,0 +1,78 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "type": "submit",
+      "text": "Send message",
+      "color": "primary",
+      "size": "lg"
+    }
+  },
+
+  "mailer": {
+    "type": "Mailer",
+    "default": {
+      "class": ""
+    }
+  },
+
+  "inputName": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Name",
+      "name": "name",
+      "type": "text",
+      "size": "lg"
+    }
+  },
+
+  "inputEmail": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Email",
+      "name": "email",
+      "type": "email",
+      "size": "lg"
+    }
+  },
+
+  "inputMessage": {
+    "type": "Input",
+    "default": {
+      "placeholder": "What do you have in mind?",
+      "name": "message",
+      "type": "textarea",
+      "size": "lg"
+    }
+  },
+
+  "social": {
+    "type": "SocialIcons",
+    "default": {
+      "icons": {
+        "facebook": "#facebook",
+        "twitter": "#twitter",
+        "instagram": "#instagram",
+        "dribbble": "#dribbble"
+      },
+      "class": "social-sm social-inline"
+    }
+  },
+
+  "txtTitle": "Contact Us",
+  "txtTitleAddress": "Find Us",
+  "txtAddress": "2651 Main Street, Suit 124<br>Seattle, WA, 98101",
+  "txtPhone": "+1 (321) 654 9870<br>+1 (987) 123 6548",
+  "txtEmail": "hello@thetheme.io",
+  "txtTitleSocial": "Follow Us"
+
+}

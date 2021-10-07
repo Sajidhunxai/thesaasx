@@ -1,0 +1,93 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "Services",
+        "title": "Our Services",
+        "text": "Join thousands of satisfied customers using our template globally."
+      }
+    }
+  },
+
+  "services": [
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-mobile",
+          "color": "#50a1ff",
+          "class": "lead-6"
+        }
+      },
+      "title": "Responsive design",
+      "text": "Now for manners use has company believe parlors. Least nor party who wrote while did."
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-gears",
+          "color": "#3cd458",
+          "class": "lead-6"
+        }
+      },
+      "title": "Customizable",
+      "text": "Now for manners use has company believe parlors. Least nor party who wrote while did."
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-tools",
+          "color": "#926dde",
+          "class": "lead-6"
+        }
+      },
+      "title": "UI Kit",
+      "text": "Now for manners use has company believe parlors. Least nor party who wrote while did."
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-layers",
+          "color": "#ff4954",
+          "class": "lead-6"
+        }
+      },
+      "title": "Lego Base",
+      "text": "Now for manners use has company believe parlors. Least nor party who wrote while did."
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-recycle",
+          "color": "#ffba00",
+          "class": "lead-6"
+        }
+      },
+      "title": "Clean Code",
+      "text": "Now for manners use has company believe parlors. Least nor party who wrote while did."
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-chat",
+          "color": "#191919",
+          "class": "lead-6"
+        }
+      },
+      "title": "Support",
+      "text": "Now for manners use has company believe parlors. Least nor party who wrote while did."
+    }
+
+  ]
+}

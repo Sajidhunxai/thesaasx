@@ -1,0 +1,54 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "overflowHidden": true,
+      "paddingBottom": "pb-0",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "color": "#f9fafa"
+      }
+    }
+  },
+
+  "img": {
+    "type": "Image",
+    "default": {
+      "src": "(img) preview/phone-3.png"
+    }
+  },
+
+  "features": [
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-tv",
+          "color": "#ffba00",
+          "class": "lead-5"
+        }
+      },
+      "title": "Responsive Design",
+      "text": "His everything its from of safe from her the have owner avoid violin, either little defined brown."
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "fa fa-code",
+          "color": "#ffba00",
+          "class": "lead-5"
+        }
+      },
+      "title": "Clean Code",
+      "text": "His everything its from of safe from her the have owner avoid violin, either little defined brown."
+    }
+
+  ],
+
+  "txtTitle": "More Than You Think",
+  "txtText": "A dull and avoid children was of neighbours on be into could on rationally it the survey monitors alone, leave forward by around a temple. The time. Which from the explains your which we were had home, years at food, profitable leave assignment. Manipulate stupid again. Have for view news following in and economic are with ran him."
+}

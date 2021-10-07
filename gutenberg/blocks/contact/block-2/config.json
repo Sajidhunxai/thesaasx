@@ -1,0 +1,65 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "btn": {
+    "type": "Button",
+    "default": {
+      "type": "submit",
+      "text": "Send Inquiry",
+      "color": "primary",
+      "size": "lg",
+      "block": true
+    }
+  },
+
+  "mailer": {
+    "type": "Mailer",
+    "default": {
+      "class": ""
+    }
+  },
+
+  "inputName": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Name",
+      "name": "name",
+      "type": "text",
+      "size": "lg"
+    }
+  },
+
+  "inputEmail": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Email",
+      "name": "email",
+      "type": "email",
+      "size": "lg"
+    }
+  },
+
+  "inputMessage": {
+    "type": "Input",
+    "default": {
+      "placeholder": "Your Message",
+      "name": "message",
+      "type": "textarea",
+      "size": "lg"
+    }
+  },
+
+  "txtText": "<p>Give us a call or stop by our door anytime, we try to answer all enquiries within 24 hours on business days.</p><p>We are open from 9am — 5pm week days.</p>",
+  "txtAddress": "652 Main Road, Apt 12<br>New York, USA 10033",
+  "txtEmail": "info@domain.com",
+  "txtPhone": "+1 (123) 456-7890",
+  "txtFax": "+1 (123) 456-0987"
+
+}

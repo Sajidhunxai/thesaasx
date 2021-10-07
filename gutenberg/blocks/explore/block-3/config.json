@@ -1,0 +1,167 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "small": "Features",
+        "title": "Unique Factors",
+        "text": "It's really easy to create a landing page for your awesome product."
+      }
+    }
+  },
+
+  "items": [
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "card-body border hover-shadow-6 text-center py-6"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-mobile",
+          "class": "lead-6",
+          "color": "#868e96"
+        }
+      },
+      "title": "Responsive"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "card-body border hover-shadow-6 text-center py-6"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-gears",
+          "class": "lead-6",
+          "color": "#868e96"
+        }
+      },
+      "title": "Customizable"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "card-body border hover-shadow-6 text-center py-6"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-tools",
+          "class": "lead-6",
+          "color": "#868e96"
+        }
+      },
+      "title": "UI Elements"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "card-body border hover-shadow-6 text-center py-6"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-recycle",
+          "class": "lead-6",
+          "color": "#868e96"
+        }
+      },
+      "title": "Clean Code"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "card-body border hover-shadow-6 text-center py-6"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-browser",
+          "class": "lead-6",
+          "color": "#868e96"
+        }
+      },
+      "title": "Browser Support"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "card-body border hover-shadow-6 text-center py-6"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-paintbrush",
+          "class": "lead-6",
+          "color": "#868e96"
+        }
+      },
+      "title": "Color Pallet"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "card-body border hover-shadow-6 text-center py-6"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-puzzle",
+          "class": "lead-6",
+          "color": "#868e96"
+        }
+      },
+      "title": "Page Builder"
+    },
+
+    {
+      "card": {
+        "type": "Card",
+        "default": {
+          "url": "#",
+          "class": "card-body border hover-shadow-6 text-center py-6"
+        }
+      },
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-newspaper",
+          "class": "lead-6",
+          "color": "#868e96"
+        }
+      },
+      "title": "Documentation"
+    }
+
+  ]
+}

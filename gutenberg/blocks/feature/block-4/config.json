@@ -1,0 +1,56 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "textWhite": true,
+      "overflowHidden": true,
+      "paddingBottom": "pb-0",
+      "header": {
+        "visible": false
+      },
+      "background": {
+        "color": "#f64d62"
+      }
+    }
+  },
+
+  "img": {
+    "type": "Image",
+    "default": {
+      "src": "(img) preview/phone-4.png",
+      "data": {
+        "aos": "fade-up"
+      }
+    }
+  },
+
+  "features": [
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-genius",
+          "class": "lead-5"
+        }
+      },
+      "title": "Fast & easy work",
+      "text": "His everything its from of safe from her the have owner avoid violin, either little defined brown."
+    },
+
+    {
+      "icon": {
+        "type": "Icon",
+        "default": {
+          "content": "icon-linegraph",
+          "class": "lead-5"
+        }
+      },
+      "title": "Create result",
+      "text": "His everything its from of safe from her the have owner avoid violin, either little defined brown."
+    }
+
+  ],
+
+  "txtTitle": "Endless Features",
+  "txtText": "Frequency proposal these the differences each your it in has then by he lift been what just precipitate, the came time. The can lift communicated. Part. Of having she boss at would that lay arm, two and are diagrams."
+}

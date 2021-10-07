@@ -1,0 +1,21 @@
+{
+  "section": {
+    "type": "Section",
+    "default": {
+      "header": {
+        "visible": false
+      }
+    }
+  },
+
+  "imgAvatar": {
+    "type": "Image",
+    "default": {
+      "src": "(img) avatar/4.jpg",
+      "class": "avatar avatar-xl"
+    }
+  },
+
+  "txtName": "Steve Jobs",
+  "txtText": "When you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations."
+}
