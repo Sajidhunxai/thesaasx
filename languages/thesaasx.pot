@@ -1,0 +1,437 @@
+# Copyright (C) 2020 thesaasx
+# This file is distributed under the same license as the thesaasx package.
+msgid ""
+msgstr ""
+"Project-Id-Version: thesaasx\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../plugins/thesaasx/cpt/footer.php:6
+msgctxt "thesaasx"
+msgid "Footers"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/footer.php:7, ../../plugins/thesaasx/cpt/index.php:79, ../../plugins/thesaasx/cpt/index.php:80
+msgctxt "thesaasx"
+msgid "Footer"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/footer.php:11, ../../plugins/thesaasx/customizer/layout.php:279, ../../plugins/thesaasx/metabox/layout.php:23
+msgid "Footer"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/footer.php:12
+msgid "Layout to be use in footer sections"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/header.php:6
+msgctxt "thesaasx"
+msgid "Headers"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/header.php:7, ../../plugins/thesaasx/cpt/index.php:71, ../../plugins/thesaasx/cpt/index.php:72
+msgctxt "thesaasx"
+msgid "Header"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/header.php:11, ../../plugins/thesaasx/customizer/layout.php:151, ../../plugins/thesaasx/metabox/layout.php:17
+msgid "Header"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/header.php:12
+msgid "Layout to be use in header sections"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/index.php:46, ../../plugins/thesaasx/cpt/index.php:47
+msgctxt "thesaasx"
+msgid "Layout"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/index.php:63, ../../plugins/thesaasx/cpt/index.php:64, ../../plugins/thesaasx/cpt/navbar.php:7
+msgctxt "thesaasx"
+msgid "Navbar"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/job.php:36
+msgid "Job"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/job.php:37
+msgid "Layout to be use in job sections"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/job.php:67
+msgid "Job Details"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/job.php:83, ../../plugins/thesaasx/cpt/portfolio.php:126
+msgid "Location"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/job.php:112
+msgid "Jobs Landing Page"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/navbar.php:6
+msgctxt "thesaasx"
+msgid "Navbars"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/navbar.php:11, ../../plugins/thesaasx/customizer/layout.php:23, ../../plugins/thesaasx/metabox/layout.php:11
+msgid "Navbar"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/navbar.php:12
+msgid "Layout to be use in navbar sections"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/portfolio.php:36
+msgid "Portfolio"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/portfolio.php:37
+msgid "Layout to be use in portfolio sections"
+msgstr ""
+
+#: ../../plugins/thesaasx/cpt/portfolio.php:155
+msgid "Portfolios Landing Page"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/additional-js.php:7
+msgid "Additional Javascript"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/additional-js.php:18
+msgid "This code will add to bottom of each page inside a <script> tag."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/blog.php:8
+msgid "Blog"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/blog.php:9
+msgid "All the configurations regard blog and posts."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/blog.php:20
+msgid "Archive"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/blog.php:33
+msgid "Layout type"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/blog.php:38
+msgid "Grid"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/blog.php:39
+msgid "List"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/blog.php:40
+msgid "Classic"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/blog.php:53
+msgid "Hide sidebar in archive pages"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/blog.php:66
+msgid "Post"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/blog.php:79
+msgid "Hide sidebar in posts"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/blog.php:93
+msgid "Hide post tags"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/blog.php:107
+msgid "Disable link of tags"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/configuration.php:9
+msgid "Site Configuration"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/configuration.php:19
+msgid "Google Map API key"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/configuration.php:20
+msgid "Get API Key"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/configuration.php:32
+msgid "Google Analytics Tracking ID"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/configuration.php:33
+msgid "Your tracking ID would be a value in this format: UA-12345678-9"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/configuration.php:45
+msgid "Google reCAPTCHA v3 — Site Key"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/configuration.php:46
+msgid "Register reCAPTCHA v3 keys in https://g.co/recaptcha/v3 to use it in contact forms."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/configuration.php:57
+msgid "Google reCAPTCHA v3 — Secret Key"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/configuration.php:71
+msgid "Hide scroll to top button"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:11, ../../plugins/thesaasx/metabox/layout.php:37
+msgid "Layout"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:12
+msgid "Set the overall layout of your website"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:35
+msgid "Global Navbar"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:36
+msgid "This navbar displays in all pages, unless another navbar has specified below or from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:51
+msgid "Blog Archive Navbar"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:52
+msgid "The navbar to display in all blog archive pages, unless another one specified from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:67
+msgid "Blog Post Navbar"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:68
+msgid "The navbar to display in all blog posts, unless another one specified from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:83
+msgid "Jobs Post Navbar"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:84
+msgid "The navbar to display in all job posts, unless another one specified from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:99
+msgid "Portfolio Post Navbar"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:100
+msgid "The navbar to display in all portfolio posts, unless another one specified from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:117
+msgid "Shop Page Navbar"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:118
+msgid "The navbar to display in the shop (WooCommerce) page, unless another one specified from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:133
+msgid "Shop Post Navbar"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:134
+msgid "The navbar to display in all shop (WooCommerce) posts, unless another one specified from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:163
+msgid "Global Header"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:164
+msgid "This header displays in all pages, unless another header has specified below or from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:179
+msgid "Blog Archive Header"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:180
+msgid "The header to display in all blog archive pages, unless another one specified from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:195
+msgid "Blog Post Header"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:196
+msgid "The header to display in all blog posts, unless another one specified from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:211
+msgid "Jobs Post Header"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:212
+msgid "The header to display in all job posts, unless another one specified from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:227
+msgid "Portfolio Post Header"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:228
+msgid "The header to display in all portfolio posts, unless another one specified from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:246
+msgid "Shop Page Header"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:247
+msgid "The header to display in the shop (WooCommerce) page, unless another one specified from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:262
+msgid "Shop Post Header"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:263
+msgid "The header to display in all shop posts, unless another one specified from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:291
+msgid "Global Footer"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:292
+msgid "This footer displays in all pages, unless another footer has specified below or from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:307
+msgid "Blog Archive Footer"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:308
+msgid "The footer to display in all blog archive pages, unless another one specified from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:323
+msgid "Blog Post Footer"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:324
+msgid "The footer to display in all blog posts, unless another one specified from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:339
+msgid "Jobs Post Footer"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:340
+msgid "The footer to display in all job posts, unless another one specified from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:355
+msgid "Portfolio Post Footer"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:356
+msgid "The footer to display in all portfolio posts, unless another one specified from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:373
+msgid "Shop Page Footer"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:374
+msgid "The footer to display in the shop (WooCommerce) pages, unless another one specified from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:389
+msgid "Shop Post Footer"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:390
+msgid "The footer to display in all shop posts, unless another one specified from editor."
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/layout.php:408, ../../plugins/thesaasx/metabox/layout.php:70
+msgid "None"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/logo.php:13
+msgid "Logo"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/logo.php:27
+msgid "Logo light"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/style.php:7
+msgid "Style"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/style.php:17
+msgid "Body font (e.g. Open Sans)"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/style.php:20, ../../plugins/thesaasx/customizer/style.php:31
+msgid "Available fonts?"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/style.php:28
+msgid "Title font (e.g. Dosis)"
+msgstr ""
+
+#: ../../plugins/thesaasx/customizer/style.php:42
+msgid "Primary color"
+msgstr ""
+
+#: ../../plugins/thesaasx/gutenberg/blocks/header/block-5/render.php:52
+msgid "By"
+msgstr ""
+
+#: ../../plugins/thesaasx/gutenberg/blocks/header/block-6/render.php:45
+msgid "in"
+msgstr ""
+
+#: ../../plugins/thesaasx/gutenberg/blocks/job/block-1/render.php:53
+msgid "Apply Now"
+msgstr ""
+
+#: ../../plugins/thesaasx/metabox/extra.php:12
+msgid "Subtitle text (uses by header blocks)"
+msgstr ""
+
+#: ../../plugins/thesaasx/metabox/extra.php:26
+msgid "Extra Options"
+msgstr ""
+
+#: ../../plugins/thesaasx/metabox/layout.php:69
+msgid "Default"
+msgstr ""
+
+#: ../../plugins/thesaasx/utils/contact.php:75
+msgid "contact"
+msgstr ""
+
+#: ../../plugins/thesaasx/utils/contact.php:111
+msgid "There is a problem in our email service. Please try again later."
+msgstr ""
